@@ -1,0 +1,768 @@
+Store Number,Store Name,Address,Latitude,Longitude
+3251,"Peter England Peter England Store, Adoni, AP","664 Ragavendra Colony, AAS College Road, Adoni",15.630361,77.287613
+3407,"Peter England Peter England Store, Chittoor","Hno: 18-971,Prakasham High Road,ChittoorPh:- 0852-233568",13.217556,79.100830
+3408,"Peter England Peter England Store, Chittorgarh, Rajasthan","16-17, Kailash Nagar, Maharana Pratap Setu Marg Chittorgarh",24.878721,74.622643
+3519,"Peter England Peter England Store, Gudivada","D.V.S complex,eluru raod,gudivada,krishna district",16.437166,80.992500
+3521,"Peter England Peter Engalnd Store, Brodipet Road, Guntur","Door No.5-98-31 & 32, Brodipet Main Road, Shankar Vilas Centre, Guntur - 522002",16.302389,80.439003
+3535,"Peter England Peter England Store, Hanamkonda, Warangal","Shop No. 1,2,3,4, & 5, GVSR Plaza, Near Amrutha Talkies, Hanamkonda, Warangal - 506 011.",18.005501,79.572861
+3549,"Peter England Peter England Store, Citi Center Mall, Hyderabad","Shop No. G-14, City Centre Mall, Road No. 1 & 10, Banjara Hill, Hyderabad - 500 034.",17.407249,78.443306
+3550,"Peter England Peter England Store, A.S.Rao Nagar, Hyderabad","Mahesh Nagar, Dr. A.S.Rao Nagar, Hyderabad - 500 062.",17.476528,78.566940
+3551,"Peter England Peter England Store, Ameerpet, Hyderabad","Ground Floor, 6-3-788/32, Vamsi Estate, Ameerpet, Hyderabad - 500 016.",17.431389,78.448555
+3552,"Peter England Peter England Store, Himayat Nagar, Hyderabad","# G-4, Swetha Apartments, M C H No. 3-6-523, Himayathnagar, Hyderabad - 500 001.",17.401751,78.484886
+3553,"Peter England Peter England Store, Kukatpally, Hyderabad","KMEG 5, Road No.1, KPHB Colony, Kukatpally, Hyderabad - 500 072",17.492695,78.402336
+3554,"Peter England Peter England Store, Habsiguda, Hyderabad","Krishna's Trendset,Peter England Showroom,Premises No 4-7-152/1,Habdiguda,Nacharam Vilage,Uppal Mandal, Hyderabad - 500 076.",17.328472,78.577446
+3555,"Peter England Peter England Store, Madinaguda, Hyderabad","No G7 & 8 , Krishna Residency, Madinaguda,Hyderabad-500050.",17.495472,78.344780
+3556,"Peter England Peter England Store, Attapur Road, Hyderabad","Ground & First Floor, Shop No. 3-4-174/3/1, Attapur Main Road, Hyderabad - 500038.",17.382694,78.432083
+3557,"Peter England Peter England Store, Forum Mall, Hyderabad","# 125, First Floor, Forum Sujana Mall, Kukatpally, Hyderabad - 500072.",17.484417,78.388779
+3558,"Peter England Peter England Store, A.S.Rao Nagar, Hyderabad","G8,Vertex Pearl complex,Opp Radhika Theatre, Srinivas Nagar colony,AS Rao Nagar main Road Kapra PIN:500062",17.476528,78.566917
+3559,"Peter England Peter England Store, Chandanagar, Hyderabad","Lubna Enterprises, Gangaram Chandanagar, 2- 105/1/F Near RS Brothers, Hyderabad",17.495861,78.333054
+3605,"Peter England Peter England Store, Kadapa, AP","# 45/386/1, Beside Sub- Register office, Near ITI Circle, Balaji Nagar, Kadapa - 516 003, AP",14.464278,78.824028
+3606,"Peter England Peter England Store, Subhash Road, Kakinada","D.No. 20-1-5, Sri Complex, Subhash Road, Kakinada Main Road, Kakinada - 533 005.",17.000250,82.279335
+3614,"Peter England Peter England Store, CVRN RD, Karimnagar","3-1-59 to 62, CVRN Road, Opp. R & B Guest House, Karimnagar - 505 001",18.438889,79.128693
+3615,"Peter England Peter England Store, Karkhana, Secunderabad","Survey no.59/1/2/1, Ground Floor Next to Food World, Bollaram Road, Karkhana, Secunderabad - 500015.",17.464111,78.502945
+3644,"Peter England Peter England Store, MG Road, Kothagudem","D No. 5-14-107, M G Road, Kothagudem - 507101, Andhra Pradesh",17.556028,80.614388
+3646,"Peter England Peter England Store, Saroor Nagar, Kothapet","Shop No. of Plot No.A, Sy.No.7/D, Ward No.11, Block No.13, Saroornagar Village, L.B.Nagar Municipality, R.R.Dist, Kothapet - 500035.",17.360945,78.544724
+3652,"Peter England Peter England Store, Jyothi Mall, Kurnool","Sy No. 102/2, 103/1A, 103/2A, Dno 40-322 & 323, Jyothi Mall, Bellary Road, Kurnool - 518001.",15.830250,78.040276
+3666,"Peter England Peter England Store, Madanapalle","# 16-2, Akbari Complex, CTM Road, Behind Axis Bank, Madanapalli",13.555306,78.509193
+3671,"Peter England Peter England Store, Mahbubnagar","Picknic Circle,mettu Gadda,Mehabubnagar, Telangana",16.752722,78.011612
+3733,"Peter England Peter England Store, Nandyal","# 28-688 D, TTD Road, Srinivas Nagar, Kalyana Mandapam, Nandyala - 518 501, AP",15.484278,78.483444
+3743,"Peter England Peter England Store, Trunk Road, Nellore","#14/415 Trunk Road ,Potti Sriramulu ,NELLORE ,524001",14.454028,79.983749
+3745,"Peter England Peter England Store, Pragati Nagar, Nizamabad","Ground Floor, Shop no.1, Surya Towers, Rajyalaxmi Residency, Pragatinagar, Near Kapila Hotel, Hyderabad Road, Nizamabad - 503 001.",18.669361,78.082306
+3805,"Peter England Peter England Store, Rajahmundry","7-30-14, Main Road, Opp. Bata Showroom, Rajamundhry - 533 101",17.006945,81.782112
+3806,"Peter England Peter England Store, Dhanvaipet Rd,Rajahmundry","H No:40-7-39/3, Gr Flr,Opp Gandhi Park,Dhanvaipet main road,Rajahmundry - 533101",17.006945,81.782082
+3809,"Peter England Peter England Store, Ramagundam","Door No:18-5-192, Opp: R R Spicy, SBH, Kalyan Nagar Chowrastha",18.747833,79.511330
+3835,"Peter England Peter England Store, Parklane, Secunderabad","# 115, Parklane, Secunderabad - 500003",17.438639,78.488831
+3858,"Peter England Peter England Store, Tadepalli","# 11-1-89/1 & 2, Tadepalligudem Main Road, West Godavari - 534102.",16.806778,81.562386
+3869,"Peter England Peter England Store, V.V Mahal Road, Tirupati","D.No.10-14-575A3, V.V.Mahal Road, Tirupati 517 501.",13.636889,79.421722
+3894,"Peter England Peter England Store, Ripples Mall, Vijayawada","Plot No. NEW TS, No.1133, Block No.21, RW No.10, Shop No.G02, Gr Floor, Ripples Mall, Bunder Road, Vijayawada - 520 010.",16.499001,80.652107
+3895,"Peter England Peter England Store, Labhipet, Vijayawada","Plot no. 39-1-16, Labhipet, M.G.Road, Vijayawada - 520010.",16.502832,80.640251
+4557,Peter England PETER ENGLAND,"Peter England Showroom, D.no.59-13-34/1A, Gayathri Nagar, Krishna, Vijayawada, Andhra Pradesh-520008",0.000000,0.000000
+3898,"Peter England Peter England Store, Prakasraopetha, Vizag","29-2-16, Prakashraopetha, Maharanipeta (P.O.), Vishakapatnam - 530 020.",17.716139,83.300079
+3899,"Peter England Peter England Store, CMR Central Mall, Vizag","Shop No. 7, 2nd Floor, CMR Central Mall, New Resapuvanipalem, Visakhapatnam - 530 013.",17.734112,83.318390
+3900,"Peter England Peter England Store, Gajuwaka, Vizag","No.10-9-34, Main Road,Gajuwaka,Vishakapatnam-530026",17.676306,83.193390
+3901,"Peter England Peter England Generation, Siripuram Main Road, Vishakapatnam","TS no. 71, D.no. 10-1-39/1, LP No. 200/59, Block No.8, Uplands, CBM Compound, Siripuram Main Road, Vishakapatnam 530016",17.724972,83.315140
+3902,"Peter England Peter England Store, Subedari Road, Warangal","No.1 & 2, Subedari Main Road, Opp.Arts College for Women, Warangal - 505001.",18.005501,79.572830
+3903,"Peter England Peter England Store, Kakatiya University Road, Warangal","No. 5-11-503 & 504, Kandlakanta Complex, Kakathiya University Road, Warangal - 506002.",18.007195,79.569252
+3332,"Peter England Peter England Store, Barpeta Road","Main Road, Kandarpa Bhawan , Barpeta Road-781301",26.499971,90.968170
+3525,"Peter England Peter England Generation, GS Road, Guwahati","Shop no. 1A, DAG No. 1608 of K.P.Patta No:369, Village Sahar Ulubari Dwitya Khada Under Mouza Ulubari in the district of Kamrup, Guwahati - 781007.",26.168167,91.764915
+3526,"Peter England Peter England Store, Fancy Bazar, Guwahati","Dr.Ayaz Arcade, Kamarpatty, Fancy Bazar. Guwahati -781001",26.182693,91.740669
+3527,"Peter England Peter England Store, G.S.Road, Guwahati","Christian Basti , Opp Church, G.S.Road, Guwahati-781005",26.155306,91.778893
+3528,"Peter England Peter England Store, Zoo Road, Guwahati","GK-2 ,ZOO ROAD, CHANDMARI, GUWAHATI - 781021",26.155306,91.778893
+3604,"Peter England Peter England Store, Jorhat","Bata Chowk, Garali , Jorhat-785001",26.760971,94.213219
+3720,"Peter England Peter England Store, Nagaon, Assam","A.T.Road, Marwari Patty, Nagaon-782001",26.182667,91.740692
+3841,"Peter England Peter England Store, Silchar","Dewanji Bazar, Silchar-788001",24.822832,92.799667
+3842,"Peter England Peter England Store, Silchar, Assam","SHOP NO - F9, FIRST FLOOR, GOLDDIGI MALL , SILCHAR (ASSA) 788001",24.822832,92.799667
+3860,"Peter England Peter England Store, Tezpur, Assam","Main Road, Adjacent S.B. Manihari Store, Tezpur ( Assam )",26.625055,92.796921
+3341,"Peter England Peter England Store, Bhagalpur, Bihar","SURYA , NEAR MARWARI PATHSHALA, Dr RAJENDRA PRASAD ROAD, GHANTA GHAR CHAUK, BHAGALPUR 812001",25.247528,86.979416
+3373,"Peter England Peter England Store, Buxar, Bihar","Above Khadim Showroom, Amlatoli, Main Road, Buxar-802101",25.576139,83.979614
+3384,"Peter England Peter England Store, Chapra, Bihar","1ST FLOOR, HATHWA MARKET, CHAPRA-841301",25.782778,84.726555
+3420,"Peter England Peter England Store, Darbhanga","Rajkumar ganj, Mirzapur Road, Opposite Axis Bank, Darbhanga-846004",26.154194,85.898750
+3490,"Peter England Peter England Store, Gaya","Peter England Showroom, Bazaza Road, Gaya, Bihar",24.795721,85.008781
+3499,"Peter England Peter England Store, Goaplganj, Bihar","VISHNU COMPLEX ,THANA ROAD,GOPALGANJ-841428",26.453917,84.435165
+3531,"Peter England Peter England Store, Hajipur, Bihar","MAHENDRA COMPLEX, YADAV CHOWK, CINEMA ROAD, HAJIPUR (VAISHALI ) - 844101",25.614582,85.153191
+3619,"Peter England Peter England Store, Katihar","R P ROAD , Near LIC Building , Katihar ( Bihar) 854105",25.544472,87.568497
+3711,"Peter England Peter England Store, Munger","Main Road, Munger-811214",25.377306,86.472725
+3762,"Peter England Peter England Store, N.P.Center, Patna","LG-22,N.P.CENTRE,NEW DAKBANGLOW ROAD,PATNA-800001",25.611279,85.120171
+3763,"Peter England Peter England Store, Bari Pant, Patna","MAHARAJA SHOPPING COMPLEX,OPP. HATHUA MARKET,BARI PATH, PATNA-800001",25.614582,85.153221
+3764,"Peter England Peter England Store, Kankar Bagh, Patna","B-52,P.C.COLONY,KANKARBAGH,PATNA-800020",25.600332,85.151001
+3765,"Peter England Peter England Store, Raja Bazar, Patna","VIDYAPEETH MARKET,RAJA BAZAR,PATNA-800001",25.615168,85.120499
+3766,"Peter England Peter England Store, Mayurlok Complex, Patna","A-34, A- BLOCK, MAURYALOK COMPLEX, DAKBANGLOW ROAD ,PATNA-800001",25.609583,85.134308
+3767,"Peter England Peter England Store, Frazer Road, Patna","G-45, MAHARAJA SHOPPING COMPLEX FRAZER ROAD, PATNA-800001",25.607306,85.138138
+3768,"Peter England Peter England Store, Boring Road, Patna","HARIHAR CHAMBER, BORING ROAD, PATNA-800001",25.611279,85.120193
+3769,"Peter England Peter England Store, Anishabad, Patna","NEAR SURYA MANDIR, BALAMICHAK MORE, ANISHABAD, PATNA - 800002",25.584278,85.093224
+3770,"Peter England Peter England Store, Kankar bagh colony, Patna","Peter England Store, 5-MIGH, Kankarbagh Colony More, Patna-20",25.600332,85.151001
+3816,"Peter England Peter England Store, Raxaul, Bihar","Peter England Showroom, Ravi Maskara Shop,? Main Road, Opposite Post Office,?Raxaul",26.983110,84.852386
+3844,"Peter England Peter England Store, Sitamarhi","SANKAR CHOWK, SITAMARHI 843301",26.570000,85.518166
+3847,"Peter England Peter England Store, Siwan, Bihar","1ST FLOOR,DARBAR MARKET,DARBAR ROAD,SIWAN-841226",26.225000,84.358528
+3848,"Peter England Peter England Store, Babunia road, Siwan","Babunia Road, Near Adda No-2, SIWAN. 841226",26.215279,84.361946
+3368,"Peter England Peter England Store, Sapela, Bhillai","Shop no. 2/9, 2/10, Akash Ganga, Billai - 490 023.",21.205111,81.354385
+3366,"Peter England Peter England Store, Bilaspur, Chattisgarh","Shop No B-1, Rajiv Plaza ,Opp. AXIS BANK Bilaspur- Chhattisgarh",22.076195,82.156334
+3367,"Peter England Peter England Store, Rama Magneto Mall, Bilaspur","Shop Number G30, Ground Floor, Rama Magneto Mall, Vaishali Chowk, Bilaspur, Chhattisgarh",22.071806,82.148865
+3640,"Peter England Peter England Store, Korba, Chattisgarh","Near SS Plaza , P H Road Korba , Chattisgarh",22.349667,82.700195
+3802,"Peter England Peter England Store, Raigarh","Near Central Bank Handi Chowk, Raigarh- Chhattisgarh",21.682028,82.995972
+3803,"Peter England Peter England Store, Pandri, Raipur","GF-29, Chhattisgarh City Center Mall Opp. EPF Office, Pandri, Devendra Nagar",21.254972,81.646416
+3427,"Peter England Peter England Store, Kamala Nagar, Delhi","No.119, E Block, Kamalanagar, New Delhi - 110 007.",28.683111,77.202972
+3428,"Peter England Peter England Store, Lajpat Nagar, Delhi","E-21, Lajpat Nagar, New Delhi - 110 024.",28.570131,77.241158
+3429,"Peter England Peter England Store, Janakapuri, Delhi","Shop No. G-5(1),A, Janak Palace, District Centre, Janakapuri, New Delhi - 110 058",28.630142,77.080078
+3430,"Peter England Peter England Store, Dwarka, Delhi","Plot no. 6, Shop no. G-2, & G-3, Agarwal Arcade, Sector 12, Dwarka, New Delhi - 110 001.",28.595980,77.049202
+3431,"Peter England Peter England Store, City Centre Mall, Rohini","Plot no. 1B3, Shop No. 8, 9 & 10, City Centre Mall, New Delhi - 110 085.",28.716976,77.114189
+3432,"Peter England Peter England Store, V3S MALL, Delhi","Shop No.G 42, 43 & 44, V3S Mall, Vikas Marg, Laxmi Nagar, New Delhi - 110 092.",28.637957,77.286446
+3433,"Peter England Peter England Store, Pacific Mall, Delhi","Shop No. 9, GF, Pacific Mall, Near Subhash Nagar Metro, Najafgarh Road, Khayala, Delhi - 110 018.",28.642311,77.106628
+3434,"Peter England Peter England Store, Karol Bagh, Delhi","Khasra No.1865/1258, Warn No.XVI,Plot No. 64, Block 17-A, WEA, Ajmal Khan Road, Karol Bagh, New Delhi - 110 005.",28.646406,77.189423
+3435,"Peter England Peter England Store, Sarojini Nagar Market, Delhi","Shop No. 185, Sarojini Nagar Market, New Delhi - 110 023.",28.576366,77.196671
+3436,"Peter England Peter England Store, Lajpat Nagar, Delhi","# J-23 B ,Lajpat Nagar -II New Delhi - 110024",28.576366,77.196671
+3437,"Peter England Peter England Store, Sarojini Nagar, Delhi","Shop No.61 & 62,Sarojini Nagar Market ,New Delhi-110023",28.577108,77.196075
+3438,"Peter England Peter England Store, Janakplance, Delhi","F-8, Janakplace, District Centre, Janakpuri, Delhi - 110058.",28.630495,77.081131
+3439,"Peter England Peter England Store, Dwarka, Delhi","Plot No.15, Shop no. G-1 & G-2, Sector 5, Dwarka, Delhi - 110075.",28.594843,77.053253
+3440,"Peter England Peter England Store, Spark Mall, Delhi","101, Mandeliya Road, Spark Mall, Kamalanagar, New Delhi - 110007.",28.680801,77.203911
+3441,"Peter England Peter England Store, Malviya Nagar, Delhi","Shop No.13, Old Market, Malviya Nagar, Delhi - 110017.",28.536772,77.212173
+3442,"Peter England Peter England Store, Connaught Place, Delhi","No.F-7, F Block, Connaught Place, Delhi 110001",28.631720,77.220886
+3443,"Peter England Peter England Store, Kamla Nagar, New Delhi","32, Bangalow Road, Kamla Nagar, New Delhi-110007",28.680803,77.204994
+3444,"Peter England Peter England Store, Sector-7, Rohini, New Delhi","H-17/247, Sector-7, Rohini, New Delhi-110085",28.711889,77.115944
+3445,"Peter England Peter England Store, Patparganj, New Delhi","A-121, Madhu Vihar, I.P. Extn. Patparganj, New Delhi-110092",28.606640,77.294891
+3446,"Peter England Peter England Store, Lajpat Nagar, New Delhi","68, Central Market Lajpat Nagar, New Delhi-110024",28.574499,77.239777
+3447,"Peter England Peter England Store, Laxmi Nagar, New Delhi","G-77, Main Market Laxmi Nagar, New Delhi-110092",28.639029,77.291054
+3448,"Peter England Peter England Store, Ashok Nagar, Delhi","#56 A, Phase 1, Ashok Vihar, New Delhi - 110 056",28.686193,77.167305
+3449,"Peter England Peter England Store, River Mall, Delhi","G-33, Ground Floor,Cross River mall, Karkarduma 110032",28.657360,77.302444
+3450,"Peter England Peter England Store, Uttam Nagar, Delhi","WZ-168A, MAIN NAJAFGARH ROAD, UTTAM NAGAR, NEW DELHI 100059",28.622667,77.060028
+3451,"Peter England Peter England Store, Mayur Vihar, Delhi","15 Pratap Nagar, Acharya Niketan Market, Mayur Vihar- Phase 1 Delhi 110091",28.606667,77.294891
+3452,"Peter England Peter England Store, Okhla, Delhi","G-66 Shaheen Bagh , Noida - Kalandi Kunj Road, Okhla, New Delhi 110025",28.545860,77.298691
+3453,"Peter England Peter England Store, Burari, Delhi","Khasra No.775, Ground Floor 100feet road, Main Extended Lal Dora, Village Burari, New Delhi-110085",28.747528,77.198280
+3454,"Peter England Peter England Store, Sector 7, Rohini","Shop No.2,14, Pocket C-8, Sector-7, Rohini, New Delhi-110085",28.680918,77.203697
+3455,"Peter England Peter England Store, kalkaji, delhi","Kalkaji,Opp Mc Donalds",28.540443,77.257835
+3456,"Peter England Peter England Store, Narela, Delhi","Shop #1 , Gautam Colony,Safiyabad Road, Narela",28.866362,77.083832
+3457,"Peter England Peter England Store, Puri, New Delhi","D-119, SHOP NO -2VIKAS PURI NEW DELHI",28.634001,77.068611
+3458,"Peter England Peter England Store, Shahdara, New Delhi","# Shop No. 246A, Durgapuri Chowk, Shahdara, New Delhi",28.689472,77.294556
+3459,"Peter England Peter England Store, Dilshad Garden, Delhi","# L-49A Dilshad Garden, Delhi -110095",28.677944,77.310303
+3460,"Peter England Peter England Store, Khanpur, Delhi","# D 8/3, Krishna Park,Khanpur Main Devli Road, Khanpur, Delhi 110080",28.508167,77.232307
+3461,"Peter England Peter England Store, Nirman Vihar, Delhi","E-364, Ground Floor Nirman Vihar, Delhi - 110092",28.636139,77.293114
+3462,"Peter England Peter England Store, Adharsh Nagar, Delhi","B-1 Majlis Park, Adarsh Nagar, New Delhi",28.717667,77.174583
+3463,"Peter England Peter England Store, Yusuf Sarai, Delhi",22/5 YUSAF SARAI NEAR GREEN PARK METRO STATIONS GATE NO 4,28.559917,77.206779
+3464,"Peter England Peter England Store, Sarojini Nagar, Delhi","48, Sarojini Nagar Market, Delhi",28.577110,77.196053
+3465,"Peter England Peter England Store, Najafgarh, Delhi","416 KH NO 53 MAIN BAZAR, NAJAFGARH, DELHI",28.612944,76.984222
+3466,"Peter England Peter England Store, Lodhi Road, New Delhi","Shop No 74, Khanna Market, Lodhi Road, New Delhi",28.582167,77.219780
+3467,"Peter England Peter England Store, Mukherjee Nagar, New Delhi","Shop No 1412, Mukherjee Nagar, New Delhi",28.709360,77.201530
+4435,Peter England PETER ENGLAND,"PETER ENGLAND SHOP G2,G3 AGGARWAL ARCADE PLOT NO=6 DWARKA SECTOR 12 NEW DELHI 110075",28.595947,77.048950
+4692,Peter England PETER ENGLAND,"Peter England Showroom Shop No.-G42,43&44, V3S Mall, Laxmi Nagar, New Delhi-110092",28.637791,77.286560
+4175,Peter England Peter England,"Peter England, Shop No. 114, Unitech mall, Great India Place, Noida-201301.",28.567856,77.325943
+3497,"Peter England Peter England Store, MG Road, Panaji","Vaglo Building, Mahatma Gandhi Road, Panaji, Goa - 403001.",15.487472,73.824280
+3498,"Peter England Peter England Store, Mall De Gao, Goa","F2 & 3, Mall De Goa, Porvorim, Goa 403521",15.525917,73.827332
+3891,"Peter England Peter England Store, Vasco da Gama","PETER ENGLAND SHOWROOM, Shop No.1&2, Ground Floor, Gurukrupa Building, Fl Gomes Rd, Pixem Dongri, Vasco da Gama, Goa 403802",15.398833,73.812721
+4206,Peter England Peter Engalnd,"Peterv England Showroom Madgar F2 & 3, Mall De Goa,Porvorim,Goa 403521",15.525672,73.827118
+645,"Peter England PE Mainline PALDI, AHMEDABAD","2 A/G.F, Bhikubhai Chambers, Near Kocharab Ashram, Paldi, Ahmedabad- 380006",23.016569,72.567223
+3257,"Peter England Peter England Store, Himalaya Mall, Ahmedabad","Shop No. 215, First Floor, Himalaya Mall, Ahmedabad, Gujrat - 380 052.",23.039568,72.566002
+3258,"Peter England Peter England Store, Alpha One Mall, Ahmedabad","#F6,Alpha mall, Vastrapur Lake ,Ahmedabad -380054",23.040091,72.531113
+3259,"Peter England Peter England Store, Prahlad Nagar, Ahmedabad","Unit No. 11, Shivalik Arcade, Beside Havmore Restaurant, Ahmedabad - 380052.",23.011810,75.508034
+3260,"Peter England Peter England Store, CG Road, Ahmedabad","Shop No. 1 & 2, Opp BSNL office, Girish cold drinks, CG Road, Navranpura, Ahmedabad - 380009.",23.037149,72.560440
+3261,"Peter England Peter England Store, Bapunagar, Ahmedabad","A, 2/3, Matrushakti Society India Colony Road, Thakkarnagar Road, Bapunagar, Ahmedabad - 380024",23.038780,72.634163
+3262,"Peter England Peter England Store, Rasna Complex, Ahmedabad","132/2 Rasna Complex , Maninagar cross road, Rly station Road, Maninagr -380008",22.996717,72.607742
+3279,"Peter England Peter England Store, Bhalej road, Anand","Shop No. 4, Ramshikar Complex, Near Grid Opp TVS Down Town New Bus Stop Roa, Anand - Gujarat - 388001",22.555981,72.942757
+3280,"Peter England Peter England Store, Tulsi Park, Anand","Tulsi Park, Opp. Prathana Vihar Shopping Center, Anand-Vallabh Vidhya Nagar Road, Anand.",22.572481,72.947197
+3282,"Peter England Peter England Store, Ankheshwar","Omkar-2, Shop no. 6/7, Opp. GIDC Railway station, Near Lords Plaza,Ankleshwar- 393002, Gujarat",21.622824,73.002235
+3328,Peter England Peter England Store,"# 1- 4, Sterling Center, R.C.Dutt Road, Alkapuri, Vadodara- 390007",22.310341,73.173271
+3329,"Peter England Peter England Store, Raopura, Baroda","Charak, City Survey No 2/1/A, Raopura Main Road, Opposite Usha Kiran Building, Raopura, Vadodara -390 001 Tel 0265-2436797",22.301529,73.200668
+3330,"Peter England Peter England Store, 7 Seas Mall, Baroda","Shop No. 7, Seven Seas Mall, Fateh Gunj, Vadodara - 390 002 Tel 0265 - 2782417",22.332779,73.196808
+3331,"Peter England Peter England Store, Inorbit Mall, Baroda","F-24, Inorbit, Gorwa Road, Vadodara, Gujrat - 390003",22.322229,73.165779
+4522,Peter England PETER ENGLAND,"Peter EnglandCharak, City Survey No 2/1/A, Raopura Main Road, Opposite Usha Kiran Building, Raopura, Vadodara -390001",0.000000,0.000000
+4523,Peter England PETER ENGLAND,"Peter EnglandCharak, City Survey No 2/1/A, Raopura Main Road, Opposite Usha Kiran Building, Raopura, Vadodara -390001",0.000000,0.000000
+3342,"Peter England Peter England Store, Bharuch, Gujarat","G-2,Bombay Shopping Center , Station Road, Bharuch - 392001. Gujarat",21.699005,72.983994
+3343,"Peter England Peter England Store, Shethana Plaza, Baruch","A-6, Shethana Plaza, Station Road, Bharuch - 392001",21.701981,72.991982
+3476,"Peter England Peter England Store, Faizabad","159, Rekabganj, Faizabad - 224001",26.853695,80.948441
+3477,"Peter England Peter England Store, Rekabganj, Faizabad","PETER ENGLAND SHOWROOM, 3/3/52, SARAL COMPLEX, REKABGANJ, FAIZABAD",26.778889,82.139053
+3361,"Peter England Peter England Store, Bhuj","Shop No. 3,Time Square, Hospital Road Bhuj-370001.",23.243284,69.672470
+3486,"Peter England Peter England Store, Gandhidham","DBZ S-42, Near Chawla Chowk, Gandhidham.-370201",23.067774,0.000000
+3487,"Peter England Peter England Store, Sector 22, Gandhinagar","699, Main Shopping Center,Opp. Post Office, Sector-22, Gandhinagar",23.196020,72.633324
+3488,"Peter England Peter England Store, Gole Bazaar, Ganganagar","6 Public Park, Gole Bazaar, Ganganagar",29.929693,73.871582
+3489,"Peter England Peter England Store, Ganganagar, Rajasthan","Sukhadia Circle, Goshala Road, Ganganagar",29.903973,73.876419
+3593,"Peter England Peter England Store, Jamnagar, Gujarat","Shop No 2 Apurva Plaza II , Opp Manek Center, Pandit Nehru Marg ,Jamnagar - 361008",22.475780,70.090691
+3719,"Peter England Peter England Store, Nadiad","G -7/8, Trimurti Complex , Nadiad - 387001. Gujarat",22.693417,72.859932
+3347,"Peter England Peter England Store, Bhavnagar","2, Eva Complex, Opp Gulistha Ground , Wagawadi Road , Bhavnagar -364001. -Gujarat",21.758722,72.145973
+3736,"Peter England Peter England Store, Narnaul, Haryana","Sanghi Emporium , Pool Bazaar, Narnaul 260642",28.048668,76.105499
+3807,"Peter England Peter England Store, Crystal Mall, Rajkot","Shop No. 112, First Floor, Crystal Mall, Kalawad Road, Rajkot - 360005.",22.281639,70.765999
+3808,"Peter England Peter England Store, Yagnik Road, Rajkot","Shop-2/A Ajay appartment, Next to hotel Imperial Palace,Dr. Yagnik Road, Rajkot",22.295944,70.791153
+3856,"Peter England Peter England Store, Adjan Road, Surat","G- 4, Time Square, , Nr. Bhulka Bhuvan School, , Adajan Road, Surat - 395009. Gujarat",21.192722,72.799416
+3857,"Peter England Peter England Store, Varchha, Surat","1, Ambika Vijay Society, Near JK Petrol Pump, Varachha Main Road, Varachha, Surat-395006",21.220064,72.844063
+4521,Peter England PETER ENGLAND,"Peter England, Aditya Birla Fashion and Retail Limited, 11/34,ground & 1st floor, Main road,near Chotalpul,lalgate, Surat, Gujarat - 395003",0.000000,0.000000
+3883,"Peter England Peter England Store, Raopura, Vadodara","Opp. Shiyapura Police Gate, Raopura, Vadodara-390001, Gujarat",22.303333,73.200333
+3884,"Peter England Peter England Store, Race Course Circle, Baroda","GF 5/6, Trident Complex, Race Course Circle, Baroda - 390007. Gujarat",22.314524,73.165215
+3885,"Peter England Peter England Store, Munj Mahuda, Baroda","3-4 Silver Arcade Complex, Akota Road, Munj mahuda, Baroda - 390020. Gujarat",0.000000,73.169205
+3886,"Peter England Peter England Store, Navrang Cinema Road, Baroda","Peter England Showroom, Opp. Narmada App. Navrang Cinema Road , Baroda- 390001.",22.301750,73.201385
+3887,"Peter England Peter England Store, Vapi","Shop 44 Tirupati Plaza, Vapi-Daman Road,Chala Vapi - 396191",20.384804,72.901985
+3275,"Peter England Peter England Store, Ambala Cantt, Ambala","#5557,Nicholson Road, Ambala Cantt-133001",30.369917,76.785919
+3276,"Peter England Peter England Store, Jain Nagar, Ambala City","1, Jain Nagar, Ambala City-134 003",30.369944,76.785919
+3349,"Peter England Peter England Store, Capital Mall, Bhiwadi","Capital Mall, Bhiwadi",28.201139,76.847832
+3350,"Peter England Peter England Store, City Center Mall, Bhiwani","Shop No. 9a & 8d, City Center Mall,Court Road Near Huda Park,Bhiwani-127021",28.816305,76.141136
+3478,"Peter England Peter England Store, Nehru Ground, Faridabad","Shop no. 28A, Nehru Ground, NIIT, Faridabad - 121 001.",28.386667,77.313972
+3479,"Peter England Peter England Store, Crown Interiors Mall, Faridabad","Shop No.G.36, Crown Interiors Mall, Main Mathura Road, Faridabad - 121 002.",28.414583,77.311470
+3523,"Peter England Peter England Store, MGF Metropolitan Mall, Gurgaon","Shop No. 28, 1st Floor, MGF Metropolitan Mall, Mehrauli Gurgaon Road - 122002.",28.481083,77.080193
+3524,"Peter England Peter England Store, Adarsh Nagar, Gurgaon","572-2 Adarsh Nagar, New Railway Road, Opp. Auto Stand, Gurgaon-122001",28.464111,77.030251
+3542,"Peter England Peter England Store, Hisar","SCF - 74, Commercial Urban Estate - II, Hisar, Haryana - 125 005",29.153860,75.722916
+3616,"Peter England Peter England Store, Karnal, Haryana","Shop No. 3, opposite Randhir Cinema, Kunjpura Road, Karnal",29.709000,77.008636
+3653,"Peter England Peter England Store, Kessel Mall, Kurukshetra","Shop No. GF - 18/29, Kessel Mall, Sector 17, Kurukshetra - 136 118, Haryana",29.970751,76.836586
+3347,"Peter England Peter England Store, Bhavnagar","2, Eva Complex, Opp Gulistha Ground , Wagawadi Road , Bhavnagar -364001. -Gujarat",21.758722,72.145973
+3736,"Peter England Peter England Store, Narnaul, Haryana","Sanghi Emporium , Pool Bazaar, Narnaul 260642",28.048668,76.105499
+3754,"Peter England Peter England Store, SECTOR 11, Panchkula","SCO 40,Sector 11,Panchkula - 134109",30.686193,76.839279
+3755,"Peter England Peter England Store, Sector 8, Panchkula","DSS 400, Sector 8, Panchkula - 134109.",30.699333,76.848999
+4553,Peter England PETER ENGLAND,"Peter EnglandDSS 400, Sector 8, Panchkula - 134109",0.000000,0.000000
+3757,"Peter England Peter England Store, Panipat, Haryana","Shop no GF04 , Mittal Mall , Sector 12, Panipat-132103",29.366722,76.994553
+3817,"Peter England Peter England Store, BMG Mall, Rewari","Store No.GF 43,44, BMG Mall,Circular Road, Opp. Sec-5, Leo Chowk ,Rewari -123401",28.184111,76.710556
+3818,"Peter England Peter England Store, Rewari",Sco 14 Brass Market Rewari Haryana,28.190971,76.613113
+3820,"Peter England Peter England Store, Merion Sky Mall, Rohtak","#108 & 109 Merion Sky Mall, Sector 3, Rohtak - 124001",28.895500,76.606636
+3821,"Peter England Peter England Store, D-Park, Rohtak","D-Park, Delhi Road, Rohtak-124001",28.888971,76.607666
+3852,"Peter England Peter England Store, Sonipat","Pavan Mega Mall( Opposite HDFC Bank) Subhash Chowk, Sonepat 131001",28.983307,77.021111
+3904,"Peter England Peter England Store, Model Town, YamunaNagar","Near Nehru Park, Model Town, Yamunanagar 135001",30.135944,77.289391
+3287,"Peter England Peter England Store, Homeland City Mall, Baddi","GF - 56, Homeland City Mall, Mauja Kalyanpur, Baddi - 173205, Himachal Pradesh",30.935583,76.788864
+3609,"Peter England Peter England Store, Kangra, HP","Shop No 18,Rajput Sabha,Old Busstand,Kangra - 176001",32.104778,76.274445
+3849,"Peter England Peter England Store, Solan, HP","Near Bank of Baroda, Opp Vivanta Mall, Solan",30.908083,77.096664
+3590,"Peter England Peter England Store, Canal Road, Jammu","Jewel Chowk, Canal Road, Near Hotel Airlines, Jammu - 180 002",32.729332,74.846306
+3591,"Peter England Peter England Store, West End Wave, Jammu","No. 18, Lower Ground Floor, Channi Rama, Opp. Bathindi Road, Jammu - 180015.",32.736500,74.867279
+3592,"Peter England Peter England Store, Gandhi Nagar, Jammu","APSARA ROAD, Gandhi Nagar, Opp. Yougal Sons, Jammu-180001",32.699055,74.858391
+3618,"Peter England Moonlight Cineplex Chowk, Kathua","# SCO3, Moonlight Cineplex.MAIN CHOWK, Kathua - 184101.",32.379333,75.513107
+3853,"Peter England Peter England Store, Residency Road, Srinagar","Shop no 8 , Residency Road , Srinagar - 190001",34.072807,74.816612
+3854,"Peter England Peter England Store, Sarah City Mall, Srinagar","Shop No. 107, 108, 109, Sara City Centre, Indira Gandhi Road, Srinagar - 190002",34.101776,74.798058
+3324,"Peter England Peter England Store, Barasat",Peter England Showroom 95/44B K.N.C. ROAD HARITALA MORE BARASAT 700124,22.719807,88.481247
+3496,"Peter England Peter England Store, Giridih","R.S. Complax, shiv Mohalla, Giridh 815301",24.182083,86.286781
+3369,"Peter England Peter England Store, Bokaro Mall, Bokaro","Bokaro Mall, G-002, Ground Floor, Sector III/C, City Centre, Opp. City Centre, Bokaro Steel City - 827003.",23.664223,86.147415
+3419,"Peter England Peter England Store, Dalatganj, Jharkhand","Dharmsala Road, Daltanganj, Jharkhand., 822101",24.040138,84.062164
+3468,"Peter England Peter England Store, Central Plaza Mall, Deoghar","Shop No.1 & 2 Central Plaza Mall, Deoghar, Jharkhand 814112",24.491112,86.688805
+3469,"Peter England Peter England Store, Centre Point Mall, Dhanbad","Unit G11 & 12 ground Floor, Center Point Mall,Bank More, Dhanbad 826001",23.788000,86.417503
+3470,"Peter England Peter England Store, Dhanbad","Shop No. 208, 2nd floor, Ozon Gallaria Mall, Saraidhela, Dhanbad- 828127",23.820749,86.469559
+3594,"Peter England Peter England Store, Sakchi, Jamshedpur","# 104, S N P Area, Near Bengal Club, Avishkar Building, GF, Sakchi, Jamshedpur - 831001.",22.807167,86.202194
+3595,"Peter England Peter England Store, Bistupur, Jamshedpur","48, Main Road, Bistupur, Jamshedpur, Jharkhand., 831001",22.794140,86.184334
+3596,"Peter England Peter England Store, Sakchi, Jamshedpur","SURAJ TOWER, 58 B, PENNAR ROAD, SAKCHI",22.805000,86.204414
+3810,"Peter England Peter England Store, Club Complex, Ranchi","Gr.& Mez Flr, Shop no. 10, Ranchi Club Complex, Main Road, Ranchi - 834 001.",23.378805,85.332054
+3811,"Peter England Peter England Store, Ranchi","Ground Floor & First Floor, 13/27, Ranchi Municipal Corporation, Main Road, Ranchi - 834001.",23.351000,85.325386
+3812,"Peter England Peter England Store, Ranchi","Shop No.2, 2nd Floor, G.E.L. Church Complex, Main Road, Ranchi, Jharkhand., 834001",23.358639,85.325859
+3336,"Peter England Peter England Store, DR. Ambedkar Road, Belgaum","Shop no. 4830/B, Dr. Ambedkar Road, Opp, District Civil Hospital, Belgaum - 590 001 Tel 0831-4212424",15.871250,74.512192
+3337,"Peter England Peter England Store, Shahpur, Belgaum","No.17/A, Khade Bazaar, Shahpur, Belgaum-590003",15.845028,74.516670
+3953,Peter England PETER ENGLAND,"Peter England Showroom, Ground, I & II Floor, 3136, Khade Bazar, Chitra Theater Road Corner, Belgaum-590002",15.864472,74.515556
+3338,"Peter England Peter England Store, Parvathi Nargar, Bellary","Peter England Showroom, Parvathi Nargar, Bellary - 583101",15.152917,76.927055
+3292,"Peter England Peter England Store, New BEL Road, Devasandra, Bangalore","Shop No.209, Ground Floor, MGECHBS Layout, New BEL Road, Devasandra, RMV 2nd Stage, Bangalore - 560 054",13.034861,77.556694
+3294,"Peter England Peter England Store, Basaveshwar Nagar, Bangalore","Ground Floor(Next to Guru Sagar Hotel), No. 576, 3rd Stage, 4th Block, West off chord Road, Bangalore - 560 079",12.999250,77.543610
+3295,"Peter England Peter England Store, Rajaji Nagar, Bangalore","Ground & First Floor, NO. 177Y/1-1, 12th Main, 3rd Block, Rajajinagar, Bangalore - 560 010",12.985000,77.553329
+3297,"Peter England Peter England Store, Commercial Street, Bangalore","#75/76, Commercial Street, Bangalore - 560 001.",12.982667,77.606750
+3299,"Peter England Peter England Store, Thippasandra, Bangalore","#243, Srikrupa, BEML Main Road, New Thippasandra, Bangalore - 560 075.",12.972361,77.650253
+3300,"Peter England Peter England Store, Kaggadasapura, Bangalore","No. 372A1 GF, 9th Cross, Kagdaspura, Bangalore - 560 093.",12.981583,77.680779
+3302,"Peter England Peter England Store, Arcade Mall, RR Nagar, Bangalore","G5, GF, Arcade Mall, Panthara Palya, 1st Block, Rajarajeshwari Nagar, Mysore Road, Bangalore - 560 098",12.936333,77.517754
+3303,"Peter England Peter England Store, HRBR Kammanahalli, Bangalore","Gr.Flr # 406/4 M, 4th Main Road (Kammanahalli Main Road), HRBR Second Block, Kalyan Nagar, Bangalore - 560 043.",13.024444,77.637192
+3304,"Peter England Peter England Store, Royal Meenakshi Mall, Bangalore","Shop No.F020, FF, Royal Meenakshi Mall, Bannerghatta Road, Bangalore - 560 076.",12.875861,77.595360
+3305,"Peter England Peter England Store, Vidyaranyapura, Bangalore","Site No.1242, Main Road ,Vidyaranyapura,Bangalore-560097",13.070472,77.555557
+3306,"Peter England Peter England Store, DVG Road, Bangalore","New No 144(PID no 49-64-144)DVG Road,Bangalore -560004",12.944306,77.570915
+3307,"Peter England Peter England Store, Koramangala, Bangalore","No C-6, C.G.Mansion, Situated at KHB Colony, 5th Block, Koramangala, Bangalore - 560095",12.936306,77.619888
+3308,"Peter England Peter England Generation, IndiraNagar, Bangalore","No.1211, Corporation PID No. 72-1-1211, HAL II Stage, Bangalore 560038.",12.970972,77.643585
+3309,"Peter England Peter England Store, Marathahalli, Bangalore","No.360, Ground Floor, Shop no. 1 & 2, Varthur Main Road, Near Thulasi Theatre, Marathahalli, Bangalore - 560037.",12.956833,77.698166
+3310,"Peter England Peter England Store, Phoenix Mall, Dyavasandra, Bangalore","Phoenix Market City,Dyavasandra Phase-II Indl. Area, Krishnarajapuram Hobli, Bangalore South, Bangalore 560048",12.989472,77.705139
+3311,"Peter England Peter England Store, BTM Layout 2ND Stage, Bangalore","Site No. 804, 7th Cross, 15th Main, BTM 2nd Stage, Bangalore - 560076",12.915111,77.612808
+3314,"Peter England Peter England Store, Market Square, Sarjapur","Khatta No. 773, Shop No. 15, Market Square, Kaikondarhalli Village, Varthur Hobli, Sarjapura Main Road, Bangalore - 560103.",12.916444,77.671112
+3315,"Peter England Peter England Store, Elements Malll, Bangalore","NO. F-7, 1st Floor, Elements Mall, 100 feet Road, Thanisandra Main Road, Near Manyatha Tech Park, Bangalore - 560077.",13.045417,77.626862
+3316,"Peter England Peter England Store, Brigade Road, Bangalore","Curzon Complex, Municipal No. 8, Ground, Brigade Road, Bangalore - 560001.",12.973889,77.607582
+3317,"Peter England Peter England Generation, Jayanagar, Bangalore","No. 8/25, SOMS-SHLOK, 11th Main Road, 4th Block, Jaynagar, Bangalore - 560011.",12.929500,77.586060
+3318,"Peter England Peter England Store, Sahakar Nagar Bangalore","S S Enterprises/Peter England Showroom #519,Ground Floor,60ft Road,F Block Sahakar Nagar Bangalore -560092",13.063806,77.588608
+3319,"Peter England Peter England Store, Forum Mall, Kormangala","Peter England Showroom,NO 112, 1st Floor, Forum Mall, Kormangala-560095",12.933972,77.611862
+3320,"Peter England Peter England Store, Vijaynagar, Bangalore","Peter England Showroom, Near Maruti Mandir, 17th Cross, Chord Road, Vijaynagar, Bangalore - 560040",12.970361,77.530388
+3321,"Peter England Peter England Store, Malleshwaram, Bangalore","Peter England Showroom, 10th Cross, Sampaige road, Malleshwaram, Bangalore-560055",13.000583,77.571198
+4129,Peter England Peter England,Peter England Showroom No.3/1 P&T Colony RT Nagar Bangalore-560032,13.024335,77.592621
+4235,Peter England Peter England,"Peter England,shop no.F020,FF royal meenakshi mall,Bannerghatta Road,Bangalore-560076",18.520399,73.856697
+4238,Peter England peter england,"No.6,CG Mansion situated at KHb Colony,5th Block,Koramangala Bengaluru 560095",12.930400,77.619392
+4286,Peter England Peter England,"Peter england showroom , #1242 main road ,vidyaranyapura, bangalore -560097",13.075436,77.559067
+4332,Peter England Peter England,"No.6,CG Mansion situated at KHb Colony,5th Block,Koramangala Bengaluru 560095",12.930430,77.619392
+4370,Peter England Peter England,"Peter England, No. 354/428, 27th Main Hosur Sarjapur Road (Agara) Sector 1, Extension, Bangalore 560102",0.000000,0.000000
+4436,Peter England PETER ENGLAND,"Unit No.SF-58 Mantri Square,Sampige Road,Malleshwaram, Bangalore- 560 003.",12.991600,77.571198
+4437,Peter England PETER ENGLAND,"#804,7th cross,15th main,BTM 2nd stage,bagalore",12.914898,77.612671
+4538,Peter England PETER ENGLAND,"No C6, C.G.Mansion, Situated at KHB Colony, 20th Main Road, 5th block Komangala Bangalore 560095",12.937066,77.618088
+4559,Peter England PETER ENGLAND,"S S Fashions, PID no.14/42/E,16th B.Main HIG Sector B, Yelahanka New Town, Bangalore - 560064",0.000000,0.000000
+4689,Peter England PETER ENGLAND,"SHOP NO. F3, PHOENIX MARKET CITY Whitefield Main Rd, Devasandra Industrial Estate, Mahadevapura, Bengaluru, Karnataka 560048",12.995800,77.696404
+3346,"Peter England Peter England Store, Bhatkal","Peter England Showroom, Main Road, Bhatkal -581320",13.987806,74.554695
+3362,"Peter England Peter England Store, Bidar, Karnataka","NO- H.NO. 8-9-330,Ground Floor, Neelamma Complex,Guru Nagar,Opp Akkamahadevi College,Udgir Raod,BIDAR- 585401",17.921473,77.510223
+3363,"Peter England Peter England Store, SS road, Bijapur","Peter England Showroom, SS Road, Near Jain Temple, Bijapur",16.830610,75.715195
+3377,"Peter England Peter England Store, RK Plaza, Chamraj Nagar","RK PLAZA, NEAR RK HOSPITAL, DOUBLE ROAD, CHAMRAJNAGAR -571313",11.927750,76.944359
+3403,"Peter England Peter England Store, Chikmagalur","Peter England exclusive showroom, Opposite Old Town Police station, M G Road, Chikmagalur, 577101",13.317694,75.774139
+3406,"Peter England Peter England Store, Chitradurga","Peter England Showroom, B.D Road, Near SBM Bank Signal, Chitradurga - 577501",14.224833,76.400581
+3421,"Peter England Peter England Store, Tanvis Arcade, Davangere","Peter England Sh. Room, No. 2696, Tanvis Arcade, Mama's Joint Road, Davangere-577004",14.454972,75.914413
+3471,"Peter England Peter England Store, Dharwad","Peter England Show Room,Vaibhav Complex, Opp: District Court, near Jubilee Circle,P.B. Road, Dharwad-580008",15.460472,75.006332
+3520,"Peter England Peter England Store, Gulbarga","No-34, Super Market, Gulbarga-585101",17.338638,76.837303
+3540,"Peter England Peter England Store, Hassan","New no. 186. Gandhi Bazaar Main Road, Hassan - 573 201.",13.008639,76.091393
+3541,"Peter England Peter England Store, PB Road, Haveri","Mulla Building, Next To LIC Office, PB Road, HAVERI 581110",14.797667,75.393974
+3545,"Peter England Peter England Store, Hospet, Bellary","Peter England Exclusive Traders, Shop 07, Parwaz Plaza college Road, Hospet, Bellary Dist.-583201",15.152917,76.927055
+3548,"Peter England Peter England Store, Urban Oasis Mall, Hubli","G 24 & 2, CTC No. 4784, Gokul Road, Hubli - 580030.",15.350056,75.111473
+3970,Peter England PETER ENGLAND,"Peter England Showroon, #1,2&3, Eureka Center, Koppikar Road, Hubli-580020",15.347661,75.142014
+3617,"Peter England Peter England Store, Karwar","Peter England Showroom, M G Road, Opp: Municipal Garden, Karwar - 581301",14.810000,74.127975
+3625,"Peter England Peter England Store, Kolar","Khata no: 184/1, AR No: 192/1 , M G ROAD KOLAR",13.133500,78.132774
+3638,"Peter England Peter England Store, Kollegal, Karnataka","Dr Rajkumar Road, Opp: Canara Bank, kollegal, Karnataka",12.154972,77.106415
+3651,"Peter England Peter England Store, Kundapura, Karnataka","479-2, Miles Complex, Municipal Road, Opp: Syndicate Bank, Kundapura-576201",13.340278,74.749031
+3654,"Peter England Peter England Store, Kushal Nagar, Karnataka",Peter England?Exclusive?Show Room,12.452000,75.965973
+3673,"Peter England Peter England Store, Gandhi Nagar, Mandya","Peter England Showroom, 100 Feet Road, Gandhinagar, Mandya-571 401",12.521500,76.893692
+3674,"Peter England Peter England Store, City Centre Mall, Mangalore","Shop No. FF 19 & 20, First Floor, KS Rao Road, City Centre Mall, Mangalore - 575 001.",12.871278,74.842560
+3675,"Peter England Peter England Store, Forum Mall, Mangalore","# 102, First Floor, Forum Fiza Mall, Pandeshwar near corporation building, Mangalore - 575001.",12.857667,74.838333
+3676,"Peter England Peter England Store, Gold Finch, Mangalore","Bunts Hostel Road, Gold Finch Complex, Managalore-575003",12.874194,74.849136
+3677,"Peter England Peter England Store, Hampankatta, Mangalore","GHS Road, SLN Complex, Hampankatta, Mangalore.-575001",12.871278,74.842560
+3678,"Peter England Peter England Store, City Center Mall, Mangalore","Peter England,Franchisee: Tinimini,1st Floor, Sublease-01 (inside Lifestyle),City Centre Mall,K S Rao Road,Mangalore",12.871278,74.842560
+4516,Peter England PETER ENGLAND,"""Peter England Showroom, Essel Wilcon, Ground Floor, D.No 15-20-1227/27, Bendorewell, Kankanady Post , Mangalore- 575002""",12.867400,74.857903
+3689,"Peter England Peter England Store, Moodbidri","Peter England Showroom, Ground Floor, Doddamane Road, Vishwas Pineapple city, Moodbidri",13.069917,74.999496
+3714,"Peter England Peter England Store, Devraj Urs Road, Mysore","# 150, Devraj Urs Road, Mysore - 570 001.",12.309750,76.644554
+3715,"Peter England Peter England Store, Kuvempu Nagar, Mysore","Yajmana Arcade, No. 1017 G & H Block, Kuvempunagar, Mysore - 570 023.",12.286722,76.626442
+3716,"Peter England Peter England Store, Nazarbad, Mysore","Mall of Mysore, FF15, Indiranagar Extn, Nazarbad Mohalla, MG Road, Mysore - 570 010.",12.312722,76.662918
+3717,"Peter England Peter England Store, Garuda Mall, Mysore","Garuda Mall, Krishna Rajendra Circle, Makkaji Chowk Area, Mysore - 570001.",12.308806,76.653831
+3718,"Peter England Peter England Store, V.V.Mohalla, Mysore","No.2733, D-1, Temple Road, V.V.Mohalla, Mysore.-570012",12.323167,76.629860
+4558,Peter England PETER ENGLAND,"Forum Center City, lst Floor, #8 & N-5, Hyder Ali Road, Nazarbad Mohalla, Mysore 570010",0.000000,0.000000
+3735,"Peter England Peter England Store, Nanjangud, Karnataka","Peter England Show room, Sri Malai Complex, MGS Road, Nanjangud",12.120583,76.678055
+3799,"Peter England Peter England Store, Puttur","Puttur Main Road, Near MORE Store, Bolwar Junction, Puttur-574201",12.768861,75.193497
+3801,"Peter England Peter England Store, Cloth Bazaar, Raichur","Brestwarpet, Cloth Bazar, Raichur - 584 101.",16.203861,77.355446
+3838,"Peter England Peter England Store, Savalanga Road, Shimoga","Peter England Showroom, JJ Commercial, Savalanga Road, Shimoga-577201",13.943833,75.573914
+3839,"Peter England Peter England Store, Nehru Road, Shimoga","Peter England Showroom, Nehru Road, Shimoga - 577201",13.932861,75.573059
+3843,"Peter England Peter England Store, Sirsi,","Peter England Showroom, C P Bazaar, Sirsi -581401",14.617972,74.829445
+3867,"Peter England Peter England Store, Tiptur, Karnataka","Lingana Complex, Opp. Govt Girls High School, BH Road, Tiptur-572201",13.263778,76.470390
+3875,"Peter England Peter England Store, Tumkur","Near More store, SIT road,Tumkur-572102",13.329028,77.120781
+3879,"Peter England Peter England Store, Sri Ram Arcade, Udipi","R.K. Fashion, Sri Ram Arcade, Opp. Head Post Office, Udupi-576101",13.340306,74.749031
+3897,"Peter England Peter England Store, Virajpet","Peter England exclusive showroom, #76/1-2, Opposite to Ganesh Temple, Near Clock Tower, Main Road, Virajpet 571218",12.196778,75.802414
+3273,"Peter England Peter England Store, Mullackal Street, Allapuzha","820/29 & 820/29/1, KKN PLAZA BLDG,Mullackal Street,Ward & Village, Allapuzha- 688011",9.497306,76.342613
+3374,"Peter England Peter England Store, Hilite, Calicut","Shop No.1062, 1063 FF (Door No.3/C/1043 C140 C141), GF, G1003, TI Business Park Hilite City, Thondayad Bypass GA College PO, Calicut - 673014.",11.248500,75.833504
+3375,"Peter England Peter England Store, Cherooty Road, Calicut","S.NO.185/2A, Ward No. 06, EL Ward No. 06, Situated at Cherooty Road, Calicut - 673001.",11.257306,75.776222
+3376,"Peter England Peter England Store, Focus Mall, Calicut","3rd Floor, Focus Mall, Rajaji Road, Calicut - 673002.ph 4025324.",11.258722,75.785637
+4594,Peter England PETER ENGLAND,"Peter EnglandShop No.1062, 1063 FF (Door No.3/C/1043 C140 C141), GF, G1003, TI Business Park Hilite City, Thondayad Bypass GA College PO, Calicut - 673014",0.000000,0.000000
+3383,"Peter England Peter England Store, College road, Changanassery","College Road, Changanassery, Kottayam-686101",9.447778,76.539413
+3409,"Peter England Peter England Store, ABAD Nucleus Mall, Cochin","Shop No.3, GF, ABAD Nucleus Mall, NH 49, Off Kundannor Jn, Ernakulam- 682 304, Kerala",9.939694,76.330971
+3410,"Peter England Peter England Store, LULU Mall, Cochin","F-63, Lulu International Shopping Mall, 50/2392, NH - 17, Edappally, Cochin - 682024.",10.027250,76.307831
+3411,"Peter England Peter England Store, CTR Square Mall, Cochin","# 107 & 108 FF, Centre Square Mall, MG Road, Cochin - 682016.",9.966694,76.287003
+3412,"Peter England Peter England Store, Palarivattom, Cochin","No. 43/2945,BCG Estate, NH Bye Pass, Palarivattom, Cochin - 682025.",9.996750,76.314331
+3568,"Peter England Peter England Store, Irinjalkuda","Lappakaran Arcade,Main Road, Irinjalakuda -680125,Thrissur,Kerala",10.347278,76.211746
+3610,"Peter England Peter England Store, Kanhangad, Kerala","Mall of India, Main Road, Opposite Kailas Theatre, Kanhangad",12.319306,75.088280
+4555,Peter England PETER ENGLAND,"HPA Retail Ventures Private Limited, Metro Arcade,Near Louis Philippe, behind SBI,MG Road,Thavakkara,Kannur,Kerala,670001",0.000000,0.000000
+4556,Peter England PETER ENGLAND,"HPA Retail Ventures Private Limited, Metro Arcade,Near Louis Philippe, behind SBI,MG Road,Thavakkara,Kannur,Kerala,670001",0.000000,0.000000
+3620,"Peter England Peter England Store, Kattappana, Kerala","Peter England Showroom, Gentleman Boutiques,Matha Building,New Busstand,Kattapana,Idukki District",9.753389,77.118385
+3624,"Peter England Peter England Store, MG Road, Cochin","40/489.OPP.CHANDRIKA BLUDGS.MG.ROAD,COCHIN-682011",9.971250,76.285530
+3637,"Peter England Peter England Store, SMV Towers, Kollam","Shop no. XVII/1133, Ground Floor at SMV Towers Main Road, Kollam - 691 001.",8.885389,76.587723
+4580,Peter England Peter England,"M/s, Ishtaara Fashions, Sy.no.143/3,Opposite Max, NH-66,Polayathodu,Kollam, Kerala-691001",0.000000,0.000000
+4581,Peter England Peter England,"Ground & Mezzanine Floor, Jacobs Building, Jacob's Junction, Punnen Road, Trivandrum - 695 039.",0.000000,0.000000
+4582,Peter England Peter England,"No.25/2451 (3) Seetha Towers, ( stiuated at Pulimoodu), M.G.Road, Trivandrum - 695001.",0.000000,0.000000
+4583,Peter England Peter England,"Peter England Showroom, No.142,Phoenix Market city Mall,Velachery Main Road, Vellachery, CHENNAI, Tamilnadu-600042",0.000000,0.000000
+3645,"Peter England Peter England Store, Kothamangalam","A division of supreme investment company,Lake view tower,Kothamangalam,pin- 686691",19.060722,72.898582
+3647,"Peter England Peter England Store, K.K Road, Kottayam","IX/1396E, 1396F, 1396G, Vadasseril, K K Road, Kottayam - 686002.",9.587361,76.545860
+3752,"Peter England Peter England Store, Pala","No. 73 (1), Survey No. 54/8, Anithottam Building, Main Road, Pala - 686575.",9.713028,76.684402
+3753,"Peter England Peter England Store, College Road, Palakkad","10/560, (3,4), College Road, Palakkad - 678001.",10.777500,76.657333
+3772,"Peter England Peter England Store, Perinthalmanna","20/26851, 52 Peter England store ,Dolphin Towers, By Pass Road, Perinthalmanna",10.984389,76.221001
+3861,"Peter England Peter England Store, Thalassery","# 43/1095A, 1095B, AVK Nair Road, Thalassery - 670101.",11.745972,75.495247
+3863,"Peter England Peter England Store, Thiruvalla","GF, Pothericans Building, Survey no. 203/8-4, Near KSRTC Bus stand, Tiruvalla-689101",9.386194,76.575027
+3864,"Peter England Peter England Store, Thrippunithura","Johns Enclave, Tripunithura.Cochin,Kerala",9.942861,76.346970
+3865,"Peter England Peter England Store, Round West, Thrissur","# 25/430, 25/431, 25/432, Thrissur Corporation, Round West, Thrissur - 680001.",10.527806,76.213303
+3866,"Peter England Peter England Store, Shobha Mall, Thrissur","Unit no. FS3, First Floor, Shobha City Mall, Puzhakkal, Thrissur - 680013.",10.549889,76.183060
+3871,"Peter England Peter England Store, T.C Building, Thodupuzha","# 819, Main Road, Todupuzha - 685584.",9.898306,76.714142
+4554,Peter England PETER ENGLAND,"95 Mall of Travancore, Malabar commercial plaza pvt .Ltd, Chackai Bypass Road, Near Internation Airport, Trivandrum, Kerala - 695024",0.000000,0.000000
+3873,"Peter England Peter Engalnd Generation - Punnen Road, Trivandrum","Ground & Mezzanine Floor, Jacobs Building, Jacob's Junction, Punnen Road, Trivandrum - 695 039.",8.500222,76.950752
+3874,"Peter England Peter England Store, Pulimoodu, Trivandrum","No.25/2451 , (127, stiuated at Pulimoodu), M.G.Road, Trivandrum - 695001.",8.494111,76.947975
+3351,"Peter England Peter England Store, TT Nagar, Bhopal","Shop no. 1, 1st Floor, Madhya Bharat House, # 68, Plot no. 82, Malviya Nagar, New Market, T.T.Nagar, Bhopal - 462 003",23.235640,77.400612
+3352,"Peter England Peter England Store, Mansarovar, Bhopal","Shop no. GF 11 & MF 11, Mansarovar Complex, Opposite Habibganj Railway Station, Bhopal, Madhyapradesh - 462 016.",23.213888,77.430054
+3353,"Peter England Peter England Store, Dainik Bhaskar Mall, Bhopal","Shop no.F4,1st Floor,Dainik Bhaskar Mall,MP Nagar, Bhopal - 462 011.",23.232779,77.430138
+3354,"Peter England Peter England Store, C-21 Mall, Bhopal","Shop No. GF-16, C-21 Mall, Hoshangabad Road, Misrod, Bhopal - 462026",23.164667,77.468941
+3355,"Peter England Peter England Store, Bittan Market, Bhopal","Site no. E 5/4, Arera Colony, Bhopal 462016",23.216223,77.426834
+3372,"Peter England Peter England Store, Burhanpur, MP","Pandumall Chouraha , Burhanpur , (M. P.)",21.319000,76.219475
+3529,"Peter England Peter England Store, Padav, Gwalior","Site No.29/30, Hotel Shelter Compound, Padav, Gwalior - 474001",26.174917,78.145027
+3562,"Peter England Peter England Store, Sapna Sangeetha, Indore","11-A, Sapna Sangeeta Road, Near Sapna Sangeeta Talkies, Indore (M.P.) 452-001.",22.698778,75.866386
+3563,"Peter England Peter England Store, C21 Mall, Indore","Shop No.5, C21 Mall, Plot No. 96-100 & 300-303, A.B.Road, Indore - 452001",22.721056,75.885361
+3564,"Peter England Peter England Store, Ranjit Hanuman Road, Indore","Plot No. 211, Ranjit Hanuman Raod, Usha Nagar Main, Near Mhow Naka, Indore - 452001. (Madhya Pradesh)",22.703833,75.841667
+3565,"Peter England Peter England Store, MG Road, Indore","G-1, Shiv Om, 578, M.G.Road, Indore - 452001.",22.722029,75.879639
+3566,"Peter England Peter England Store, Treasure Island Mall, Indore","S-17, Second Floor, Treasure Island Mall, South Tukoganj, Indore, 452012",22.721277,75.878387
+3567,"Peter England Peter England Store, Indore","G-11,12 Singapore Market, 63 M.G.Road , Indore , Madhya Pradesh (M. P.)",22.719610,75.871529
+4524,Peter England PETER ENGLAND,"Peter England, Unit no. 1,2,3,4A & 4B, Dagila Chambers, 3 Sneh Nagar, Scheme No.47, Sapna Sangeetha Road, Indore - 452001",0.000000,0.000000
+3569,"Peter England Peter England Store, Samardiya Mall, Jabalpur","Samdariya Mall, Upper Ground Floor, Shop No.11, Jabalpur - 482 001.",23.169027,79.933220
+3570,"Peter England Peter England Store, Mouja Gorakhpur, Jabalpur","No.603/1,Plot Khasra No. 499,Sheet no.289, Mouja Gorakhpur No Bandobast 605, Patwari Halka No 24/2, Houbagh Ward, Jabalpur - 482002",23.210361,79.885696
+3571,"Peter England Peter England Store, Narmada Road, Jabalpur","Shop No. FF 18 & 19, South Avenue Mall, Narmada Road, Jabalpur - 482008.",23.124306,79.927666
+3572,"Peter England Peter England Store, Naudra Bridge, Jabalpur","14, Jabalpur Club Complex, Naudra Bridge, Jabalpur (M. P.)",23.165890,79.935143
+3742,"Peter England Peter England Store, Naredi Complex, Neemuch","Naredi Complex , Near Dashera Maidan , Opp Firoze Shah Petrol Pump , Neemuch (M. P.)",24.459862,74.864693
+3824,"Peter England Peter England Store, Sagar, MP",494 A Court Road Krishna Ganj Ward Sagar - (M. P.),29.955557,77.546974
+3834,"Peter England Peter England Store, Satna, MP",Hanuman Chowk Satna - (M. P.),24.580557,80.829666
+3836,"Peter England Peter England Store, Shahdol, MP",In front of Hotel Surya Burhar Road Shahdol- (M. P.),23.302195,81.356804
+3880,"Peter England Peter England Store, Nanakheda, Ujjain","Shop No. GF- 20 & 21 Treasure Bazar, Nanakheda , Ujjain 456010 (M. P.)",23.157417,75.790359
+3881,"Peter England Peter England Store, Tower Chowk, Freeganj, Ujjain","Jawaher Niwas , Tower Chowk , Freeganj , Ujjain , Madhya Pradesh (M. P.)",23.179501,75.788025
+3882,"Peter England Peter England Store, Freeganj, Ujjain","84/15, Vikram Marg Shahid Park, Freeganj, Ujjain (M. P.)",23.178833,75.790749
+3263,"Peter England Peter England Store, Sai Icon, AhmedNagar","Plot no. 95/3, Sai Icon Ahmednagar, Manmad Road, Savedi Ahmednagar - 414001.",19.124222,74.739670
+3264,"Peter England Peter England Store, MG Road, Ahmednagar","M.G Road, Ahmednagar- 414 001",19.094723,74.738892
+3267,"Peter England Peter England Store, Akola","No.1/6 Ground Floor,Shop No.7, Ratanlal Plot,Akola-444001",20.699667,77.016136
+3268,"Peter England Peter England Store, Alibag","158/2 Dhan Laxmi House Naag Dongri,Chandhre Ravas Road,Alibag",18.654167,72.875168
+3277,"Peter England Peter England Store, Amravati","Jaistambh Chowk, , Main Road, Amravati - 444601 .",20.931444,77.752083
+4568,Peter England PETER ENGLAND,"Plot no. 3, of Mouza-Gaothan, Amravati-situated at Rajkamal Road towards Gandhi Chowk, Nagpur Municipal Corporation Amravati- 444601",0.000000,0.000000
+3284,"Peter England Peter England Store, Prozone Mall, Aurangabad","Prozone Mall, S.No.F26, Plot no.P/80, API Compound, Airport Road, MIDC Chikalthana, Aurangabad - 431 003.",19.877361,75.371780
+3285,"Peter England Peter England Store, Nirala Bazaar, Aurangabad","No. 116, Tapadia City Center, Nirala Bazaar, Aurangabad - 431001.",19.880251,75.324638
+3286,"Peter England Peter England Store, Aurangapura, Aurangabad","CTS No. 4880, GF, DP Road, Municipal No. 12-B/PG/87, New no. D0002079, Ward D, Aurangabad - 431001.",19.884693,75.328331
+3334,"Peter England Peter England Store, Beed, MH","Sarda Capital, D.P. Road, Subhash Market, Beed, Maharashtra",18.991917,75.756447
+3382,"Peter England Peter England Store, Chandrapur","Popat Building, Jatpura Gate , Main Road, Chandrapur - 442402 .",19.958584,79.295670
+3404,"Peter England Peter England Store, Chiplun","Shop No. 14, Swami Narayan Complex, Near Sane Guruji Udyan, Shivaji Chowk, Chiplun",17.530472,73.515808
+3472,"Peter England Peter England Store, Dhule, Maharashtra","PAROLA ROAD, DHULE",20.903360,74.777527
+3485,"Peter England Peter England Store, Gadhinglaj","JP arcade, Near S.T stand, Main road, Gadhinglaj",16.222860,74.350060
+3560,"Peter England Peter England Store, Ichalkaranji","Near bank of india,Shapur road, Janta bank chowk, Ichalkaranji",16.688972,74.463890
+3589,"Peter England Peter England Store, Jalgaon","Shop Number. 199 ,Nr.Nath Plaza, MG Road, Navi Peth ,Jalgaon - 425001,Maharastra",21.015417,75.565193
+4525,Peter England PETER ENGLAND,"Peter EnglandShop Number. 199 ,Nr.Nath Plaza, MG Road, Navi Peth ,Jalgaon - 425001",0.000000,0.000000
+3612,"Peter England Peter England Store, Karad","No.6, Patel Market, Opp. Ahuja Patel, Shaniwar Peth, Karad - 415110.",17.286472,74.179810
+3626,"Peter England Peter England Store, Rajarampuri, Kolhapur","1888 E, Omega Towers, Opp. Hotel Way Inn, rajarampuri, 9th Lane Main Road, Kolhapur - 416008.",16.693306,74.243668
+3627,"Peter England Peter England Store, Kolhapur","1783, Rananavare Complex, , E-Ward, Opp. Hotel Castle, , 2nd Lane, Rajarampuri, , Kolhapur",16.697306,74.241859
+3639,"Peter England Peter England Store, Kopergaon, Ahmednagar","Badade complex, Bank road, Kopergaon, Ahmednagar, Maharashtra",19.882000,74.476669
+3655,"Peter England Peter England Store, Latur","Life Style ? I, Ausa Road, , Rajiv Gandhi Chowk, , Latur",18.383444,76.559944
+3502,"Peter England Peter England Store, Colaba","11A,CUSROWBAUG , SHAHEED BHAGAT SINGH ROAD , COLABA , MUMBAI - 400 039",18.920082,72.829865
+3503,"Peter England Peter England Store, Thakur Village, Kandivali East","EMP No 46, Shop No 107 , Thakur Village, Kandivali (E), , Mumbai 400 101",19.210388,72.873421
+3504,"Peter England Peter England Store, Naupada, Thane W","17, ShivKripa Commercial centre, Opp. Canara Bank, Naupada, Thane (west), 400602",19.187668,72.972359
+3505,"Peter England Peter England Store, Gokhle Road, Thane West","16,GAUTAM TOWER, , GOKHALE ROAD , THANE(W)-400602",19.187000,72.970642
+3506,"Peter England Peter England Store, Dombivali East","SHOP NO 7,KASTURI PLAZA , MANPADA ROAD, , DOMBIVALI(E) , THANE -421201",19.215111,73.090530
+3507,"Peter England Peter England Store, Vasai West","SHOP NO2,MAITRA VAIBHAV , NR. ST STAND , NAVGHAR ROAD,VASAI(W) , THANE -401202",19.383499,72.830025
+3508,"Peter England Peter England Store, Ulhasnagar","AMIR APARTMENTS , SHOP # 1, GOL MAIDAN ROAD , ULHASNAGAR , MUMBAI .-421003",19.234917,73.160553
+3509,"Peter England Peter England Store, Mira Road East","SHOP NO 25/26 BLDG NO B42/43, NEAR NEW INDIA BANK SECTOR-1, OPP.ICICI BANK MIRA ROAD [EAST] ,Mumbai 401107",19.281361,72.858887
+3510,"Peter England Peter England Store, Little Wonder mall, Kharghar","Little Wonder Mall 1st Floor , Kharghar Near Station , New Mumbai-410210",19.029612,73.064941
+3511,"Peter England Peter England Store, Vile Parle East, Mumbai","Ground Floor, So Lucky Corner, 54-MG Road, Vileparle East, Mumbai-400 057",19.099890,72.846001
+3512,"Peter England Peter England Store, Sector 7, Airoli","No .11 Shivashankar Complex. Sector 7 Airoli, Navi Mumbai",19.147751,72.995361
+3513,"Peter England Peter England Store, Mira Road East, Mumbai","SHOP NO. 9, NEW CHANDAN AVENUE,?NEXT TO OLD PETROL PUMP. MIRABHYANDER ?ROAD,MIRA ROAD EAST. Thane",19.281389,72.858917
+3514,"Peter England Peter England Store, Thane West","Shop No.1,Maruti Bhavannear New English School,Ram Maruti Road,Thane (West)",19.190582,72.972557
+3515,"Peter England Peter England Store, Nalasopara West","Swastick Mega City,Aster Apartment,Gala No. 20-21Ground Floor,Patenkar Park,nalasopara -West",19.420168,72.811081
+3516,"Peter England Peter England Store, Bhabhola Rd, Mumbai","Shop no 6 opp. Krishna complex, Near macDonald Bhabhola Rd.",19.369223,72.818390
+3517,"Peter England Peter England Store, Virar West, Mumbai","Viva supermarket pvt.ltd, Shop no. 3 , viva Gokul,Near Axis bank, Gokul Township Agashi Road, Virar (w.)",19.456362,72.792473
+3608,"Peter England Peter England Store, Kandivali West","Sharda Bhavan, Station Road,Kandivali (W),Mumbai",19.187389,72.847664
+3691,"Peter England Peter England Store, Andheri West, Mumbai","Shop no. 3, Spenta Mansion, S.V.Road, Off. Cama Road, Andheri (W), Mumbai - 400 059.",19.119722,72.847778
+3692,"Peter England Peter England Store, Lokhandwala, Mumbai","Sunny Side, Shop No. 10, Lokhandwala Complex, Opp. BreadKraft, Andheri(W), Mumbai - 400053.",19.194778,72.876831
+3693,"Peter England Peter England Store, Housing Society, Panvel","Shop NO.1, SAI HARSH, Plot NO. 125, Middle Class, Housing Society, Near Durga Mata Mandir, Opp:Telephone Exchange, Old Panvel - 410 206.",18.990473,73.104195
+3694,"Peter England Peter England Store, Raghuleela Arcarde, Navi Mumbai","Shop No-5, Raghuleela Arcade, Opp.Vashi Railway Station, Sector No.30, Navi Mumbai - 400064.",19.063972,72.996887
+3695,"Peter England Peter England Store, Nerul, Mumbai","Shop No. 9 & 10, Krishna Kamal Co-operative Housing Society Ltd, Plot no. 111/H, Sector 21, Nerul, Navi Mumbai Taluk - 400 602",19.030443,73.018608
+3696,"Peter England Peter England Store, Seawoods, Mumbai","Shop no. 7 & no.8, Shreeji Seva, Plot no. 42, Sector 42, Seawood, Navi, Mumbai-400706",19.018557,73.017670
+3697,"Peter England Peter England Store, R City Mall, Mumbai","Unit number F-16, FF, R City, LBS Marg, Ghatkopar, Mumbai - 400086.",19.099806,72.915810
+3698,"Peter England Peter England Store, Infinity Mall Malad","Store no.133, First Floor, Infinity Mall, Malad, Mumbai - 400 064.",19.186806,72.848862
+3699,"Peter England Peter England Store, Borivali, Mumbai","Unit No.9, Mayfair 14, Tulsi Baug, Plot # 17A, TPS # 1, Ramdas Sutrale Marg, Of Chandavarkar Road, Borivali (WEST), Mumbai - 400 092.",19.232279,72.853668
+3700,"Peter England Peter England Store, Growel Mall, Mumbai","F 08 (1st Flooor), Growel 101,Kandivali (East) Mumbai - 400078",19.203112,72.859612
+3702,"Peter England Peter England Store, Shimpoli Road, Borivali, Mumbai","# 12, Shimpoli Road, Borivalli, Mumbai - 400092.",19.220888,72.841415
+3703,"Peter England Peter England Store, Viva City Mall, Thane, Mumbai","FF-20, Viva City Mall, Voltas Compound, Pokhran Road No. 2, Subhash Nagar, Thane(W) - 400610.",19.208944,72.971336
+3704,"Peter England Peter England Store, Hirachand Road, Ghatkophar, Mumbai","Shop No. 4, Chandra Pushpa Building, Opp. New Post Office, Hirachand Desai Road, Ghatkopar (west), Mumbai - 400086",19.086861,72.907829
+3705,"Peter England Peter England Store, Chembur","Shop No. 7, 7A & 8, Gr Flr & 1st Flr, 19th Road, Chembur(E), Mumbai - 400071.",19.060749,72.898582
+3706,"Peter England Peter England Store, Fort, Mumbai","SHOP NO GO 2-B GROUND & MEZZANINE FLOOR, Prospect Chambers Fort, Mumbai - 400001.",18.934361,72.832642
+3707,"Peter England Peter England Store, Vashi Sec 17, MUMBAI","Plot no. 47, Gagangiri Societ, Sector 17, Vashi, Navi Mumbai - 400705.",19.071890,73.000580
+3708,"Peter England Peter England Store, Maxus Mall, Bhayander West","shop no.G-21,Maxus Mall, Old Survey no.677,New no.278, Hissa no.7A,7B7C, 4&5,Bhyander West, Thane 411 101",15.525917,73.827332
+3710,"Peter England Peter England Store, Grand Central Mall, Seawoods, Mumbai","Shop no – 25 & 26 , Grand Central Mall, Plot No R-1, Sector – 40, Seawoods Railway Station, Navi Mumbai – 400706.",19.021639,73.018387
+4621,Peter England PETER ENGLAND,"Unit no. G-57, Ground Floor, LBS Marg, Kurla West, Phoenix Market City Mall Kurla, Mumbai - 400070",19.086300,72.888802
+3723,"Peter England Peter England Store, Empress City Malll, Nagpur","Shop No.116, Empress City Mall, Walker Road, Nagpur - 440 018.",21.148193,79.092636
+3724,"Peter England Peter England Store, Rokde Lifestyle","1238,'Rokde Sadan', Bhavsar square, Beside hotel indiasun, Central avenue road, Gandhibagh, Nagpur - 440002",21.150723,79.106247
+3725,"Peter England Peter England Store, Uthkhana Road, Nagpur","212, Utkhana Road , Near Medical Square, Nagpur - 440002 .",21.134361,79.100502
+3726,"Peter England Peter England Store, Sadar, Nagpur","Residency Road , Sadar , Nagpur - 440001",21.163860,79.079803
+3727,"Peter England Peter England Store, Ashok Chowk, Nagpur","Ashok Chowk, Padole Corner, Great Nag Road, Nagpur-440009",21.136333,79.102501
+3728,"Peter England Peter England Store, Sitabuldi, Nagpur","RJ retail - Sitabuldi, Opp Buty Building, Main road, Sitabuldi, Nagpur-",21.147751,79.084274
+3731,"Peter England Peter England Store, Phavde complex, Nanded","Shop no. 5,6 pawde complex,opp lokmat office shivaji nagar, Nanded",19.163694,77.305359
+3732,"Peter England Peter England Store, Vazirbad, Nanded","G-6, G-7, Anant Shri Sankul, Mahavir Chowk, Vazirabad, Nanded",19.167862,77.326691
+3737,"Peter England Peter England Store, Archit Arcade, College Road, Nashik","Shop No.3 to 5, Archit Arcade,S.No.724/2/1, Plot No.1, Final Plot # 481, Nasik - TPS II, College Road, Nasik - 422 005.",20.006056,73.762917
+3738,"Peter England Peter England Store, City Centre Mall, Nashik","Ground Floor - 16, City Centre Mall Nashik p. Ltd, Lawate Nagar, Unt Wadi, Nasik - 422 002.",19.990499,73.761696
+3739,"Peter England Peter England Store, Sector 4, Panvel, New Mumbai","PETER ENGLAND SHOP NO.9, KALPATRU CO OP HSC LTD, NEAR DOMINOS SECTOR NO 4. PLOT NO 230 NEW PANVEL 401206",19.002472,73.117195
+3740,"Peter England Peter England Store, Koperkirane, Sector 18, Navi Mumbai","Shop no 2 Plot No. 77 Shubham Building, Sector 18 Koperkirane",19.009501,73.036079
+3756,"Peter England Peter England Store, Pandharpur","4529/4,Gold Palace, Station Road, Pandharpur",17.674583,75.323723
+482,Peter England PE Mainline MISSION STREET,"NO-199 , MISSION ST , PONDICHERRY - 605 001 .",11.935100,79.831100
+2348,"Peter England PEM-Korum Mall, Thane","F-18,Korum Mall, Mangal Pandey Road, Samata Nagar,Thane West, Thane 400601",19.203005,72.965157
+3709,"Peter England Peter England Store, Korum Mall, Thane","F-18,Korum Mall, Mangal Pandey Road, Samata Nagar,Thane West, Thane 400 602",19.203138,72.965332
+3775,"Peter England Peter England Store, Annasalai, Pondicherry","No. 62, Annasalai, Pondicherry - 605001.",11.933750,79.824471
+3776,"Peter England Peter England Store, Aundh, Pune","Business Avenue, Sanghvi Nagar, Opp. Sony World, Aundh, Pune - 411 007.",18.560722,73.812279
+3777,"Peter England Peter England Store, Shagun, Pune","# 586, Sadashiv Peth, Maharaj Smriti, Umbriya Ganapati Chowk, Pune - 411030",18.505056,73.841972
+3778,"Peter England Peter England Store, Chichwad, Pune","Gold Craft Building, Shop No. 5, 6, 7 & 8, Near Chaphekar Chowk, Chinchwad, Pune - 411 033.",18.645918,73.800720
+3779,"Peter England Peter England Store, Kothrud, Pune","Sapna Co-Op Housing Society, Mayur Colony, Karve Road, Kothrud, Pune - 411029.",18.495611,73.811028
+3780,"Peter England Peter England Store, Singhad Road, Pune","Shop no. 3 & 4, Parinay Mangal Karyalay Building, Sr. No.33, Near Kaka Halwai, Manikbaug, Sinhgad Road, Vadgaon Budruk, Pune-411051.",18.473557,73.821526
+3781,"Peter England Peter England Store, Sai Chowk Pimpri, Pune","GF, Shop No. 1/6/7 Sai Chowk, Opp New Vishandas Sweet Mart, Pimpri, Pune - 411 017.",18.610332,73.788971
+3782,"Peter England Peter England Store, Pheonix Mall, Pune","F-59, Survey no. 207, Behind Baker Guage, Next to Tyco Electronics, Viman Nagar, Phoenix Market City, Pune - 411 014.",18.561443,73.917221
+3783,"Peter England Peter England Store, Amanora Park, Pune","EB-FF-9, Town Center, Amanora Park Township Hadapsar, Taluka Haveli, Pune - 411 028.",18.518557,73.935059
+3784,"Peter England Peter England Store, JM Road, Pune","CTS No. 1206/B-19, CIFCO Centre, J.M.Road, Pune - 411004.",18.519138,73.845032
+3785,"Peter England Peter England Store, Tilak Road, Pune","No.1,2 & 3, Ground Floor, Shivnandan Co-op Housing Society, Sadashiv Peth, Tal, Pune - 411030",18.509390,73.847778
+3786,"Peter England Peter England Store, Laxmi Road, Pune","#691, Narayan Peth, Opp.Nu MA VI School, Appa Balwant Chowk, Pune - 411030.",18.515833,73.853722
+3787,"Peter England Peter England Store, Baner, Pune","Commercial Shop Number - 1,2, & 3 and Office No.03 , Tamhane Complex , Survey No.183 , Near Shivsagar Hotel ,Opposite Dhanvantari Hospital Baner Road, Baner, Pune - 411045",18.559084,73.790916
+3788,"Peter England Peter England Store, Paud Road, Kothrud, Pune","Shankar Bhawan, 128/1-A, Opposite PNG Showroom, Paud Road, Kothrud - 411038.",18.510834,73.818611
+3789,"Peter England Peter England Store, Camp, Pune","#311,M.G.Road, opp. Karachi Sweet Mart, Camp, Pune 411001",18.516277,73.879059
+3790,"Peter England Peter England Store, Nitesh Mall, Pune","Nitesh Mall, Survey no.37, Hissa No.4, Village Mouje, Gorpadi Taluka, Pune 411001",18.538111,73.907501
+3791,"Peter England Peter England Store, Bhudwar pet, Pune","6-Budhawar Peth , Nagarkar Talim Chowk , United Western Bank Bldg , Pune - 2",18.514389,73.853806
+3792,"Peter England Peter England Store, Tapasvi Plaza, Pune","Shop No. 47/50 , Tapasvi Plaza, , Akurdi Chowk , Mum-Pune Rd. , Pune - 19",18.649000,73.786858
+3793,"Peter England Peter England Store, Jangli Maharaj Road, Pune","Opp-Hotel Khyber, Jangli Maharaj Road , Pune - 411004",18.519138,73.845032
+3794,"Peter England Peter England Store, Fatima Nagar, Pune","Shop No. 10 , Fun & Shop , Near Big Bazaar , Fatima Nagar , Pune - 411013",18.505722,73.901337
+3795,"Peter England Peter England Store, Rajguru Nagar, Pune","Shop No. 18 , Aryan Capital , Taluka Khed , Rajgurunagar , Pune - 410505",18.854973,73.883141
+3796,"Peter England Peter England Store, Pimpri","Shop no.5, Seller, Jewel of Pimpri, opp Finolex, Pimpri, Pune - 411018 .",18.628389,73.803024
+3797,"Peter England Peter England Store, Dehu Road, Pune","SR No 168, Dwarka Building, Old Bombay-Pune Highway Road, Dehu Road",18.649000,73.786919
+4589,Peter England Peter England,"Shop no – 14, 1st Floor,CTS No – 403/A, SB Road, Sivajinagar,Pune – 411016",0.000000,0.000000
+4595,Peter England PETER ENGLAND,"""Pavillion Mall (ICC MALL),1st floor,Shop No-14,Shivaji Nagar,SB road,Pune-411016. PH NO-020-66421166""",18.533800,73.829803
+3813,"Peter England Peter England Store, Ratnagiri","Shop no.1/2,Sankeshwar Arcade, near Athvada Bazzar , Ratanagiri",16.992611,73.293282
+3830,"Peter England Peter England Store, Sangamner","Shop No. 1031, Old no. 1/1277, Main Road, Opp. Nagar Urban Bank, Sangamner - 422605",19.569082,74.208054
+3831,"Peter England Peter England Store, Ram Mandir, Sangli","No. 7 to 11, GF Shreeram Plaza, Ram Mandir Corner, Opp. Ram Mandir, Sangli - 416416.",16.856611,74.574333
+3832,"Peter England Peter England Store, Rajwada chowk, Sangli","Rajwada Chowk, Sangli, Maharashtra- 416416",16.856611,74.574333
+3833,"Peter England Peter England Store, Guruwarpeth, Satara","# 403, Guruwar Peth, Sangle Sadan, Satara - 415 002",17.683722,73.996498
+3850,"Peter England Peter England Store, City Corner, Solapur","Shop no. 14/15, City Corner, Ground Floor, Survey no. 8493 C/D, Saraswati Chowk, Opp. Sanket Hotel, Solapur - 413 001.",17.670305,75.901779
+3968,Peter England Peter England,"Shop no.11,12 21 & 22 Ground Floor Sun Soman Square,Agra Road Kalyan West Thane - 421301",19.244341,73.128922
+3905,"Peter England Peter England Store, Yavatmal","Chandralok,?Chintamani complex,New main line,?Indira Gandhi market",20.391972,78.132385
+3561,"Peter England Peter England Store, Imphal","Poana Bazar, Imphal-795001",24.804832,93.934669
+3473,"Peter England Peter England Store, Dimapur","Church Road, Dimapur-797112",25.908028,93.721420
+3281,"Peter England Peter England Store, Angul","New Daily Market Road, Central Lodge Building, Angul, 759122",20.837584,85.093193
+3290,"Peter England Peter England Store, Balasore","Motiganj Bazar, Balasore , Odisha - 756003",21.492167,86.941170
+3288,"Peter England Peter England Store, Baharampur","134,B.B.SEN ROAD,OPP. CENTRAL CO-OPERATIVE BANK-742101",24.106806,88.250191
+3339,"Peter England Peter England Store, Berhampur","City Mall,Opp: telephone Bhawan,Berhampur,pin : 751007",19.310612,84.791557
+3340,"Peter England Peter England Store, Bhadrak","Thana Chowk, Bhadrak-756100",21.063028,86.505554
+3348,"Peter England Peter England Store, Bhawanipatna","Peter England Store, Mahavir Para, Satyam Cinema Hall Road",19.907444,83.164139
+3356,"Peter England Peter England, Ashok Nagar, Bhubaneswar","47, Ashoknagar, Janpath, Bhubaneswar, 751009",20.265444,85.839943
+3357,"Peter England Peter England, Pal Height Mall, Bhubaneswar","Pal Height Mall, Jaydev Vihar, Bhubaneshwar, 751013",20.298500,85.823112
+3358,"Peter England Peter England Store, Forum Mart, Bhubaneswar","Forum Mart, 89-Kharvel Nagar,Unit:03 Bhubaneswar, 751001",20.278334,85.845612
+3359,"Peter England Peter England Store, Kesari Mall, Bhubaneswar","Keshri Mall, Western Market Building, Bhubaneswar, 751003",20.266027,85.832420
+3360,"Peter England Peter England Store, Domana Sqaure, Bhubaneswar","Royal Tower ,Damana Square, Bhubaneswar-751016",20.265444,85.839973
+4549,Peter England PETER ENGLAND,"Shop No-141/142, 1st floor,Esplanade one mall,rasulgarh chowk, bhubaneswar odisha-751010",0.000000,0.000000
+3416,"Peter England Peter England Store, Buxi Bazar, Cuttack","Buxi Bazar, Cuttack, 753001",20.462528,85.883003
+3417,"Peter England Peter England Store, Mangalabagh, Cuttack","Mangalabagh, Cuttack, 753003",20.477417,85.881081
+3418,"Peter England Peter England Store, Dolmundi, Cuttack","Krishna Arcade, Dolmundi, Cuttack, 753001",20.462473,85.883194
+3586,"Peter England Peter England Store, Jajpur Road, Odisha","Near Canara Bank, Bank Street, Jajpur Road(Odisha)",20.949057,86.133194
+3597,"Peter England Peter England Store, Jatani, Odisha","Main Road, Opp. Punjab National Bank, Jatani-752050",20.160139,85.704414
+3600,"Peter England Peter England Store, Shree Complex, Jharasuguda","Ground Floor, Shree Complex, Main Road, Jharsuguda-768201",21.858360,84.015999
+3621,"Peter England Peter England Store, Kendujhar, Odisha","Peter England Store, Gandhi Chack, Keonjhar(Odisha)",20.837584,85.093193
+3798,"Peter England Peter England Store, Puri","Balagandi Square-Grand Road, Puri-752001",19.812639,85.829170
+3804,"Peter England Peter England Store, Raj Khariar , Odisha","Peter England Store, Besides SBI Azad Chowk Branch, Raj Khariar, Nuapada",20.281528,82.772278
+3814,"Peter England Peter England Store, Raurkela","Konark Handloom, Peter England Showroom, Udit nagar, Rourkela-769 012",22.226667,84.843887
+3815,"Peter England Peter England Store, Raurkela, Odisha","Peter England Store,?W/4,NAC Market, Sector-2, Rourkela ? 769006, Odisha",22.225332,84.859222
+3828,"Peter England Peter England Store, Sambalpur","V.S.S Marg ,Sambalpur, 768001",21.475000,83.965973
+3829,"Peter England Peter England Store, Sambalpur","PE ShowRoom-Shop No-7, 1st Floor,City Central Mall, Fram Road,Sambalpur-768002",21.475027,83.965973
+3859,"Peter England Peter England Store, Talcher, Odisha","Hata Tota, Talcher",20.946890,85.217781
+482,Peter England PE Mainline MISSION STREET,"NO-199 , MISSION ST , PONDICHERRY - 605 001 .",11.935100,79.831100
+2348,"Peter England PEM-Korum Mall, Thane","F-18,Korum Mall, Mangal Pandey Road, Samata Nagar,Thane West, Thane 400601",19.203005,72.965157
+3709,"Peter England Peter England Store, Korum Mall, Thane","F-18,Korum Mall, Mangal Pandey Road, Samata Nagar,Thane West, Thane 400 602",19.203138,72.965332
+3775,"Peter England Peter England Store, Annasalai, Pondicherry","No. 62, Annasalai, Pondicherry - 605001.",11.933750,79.824471
+3278,"Peter England Peter England Store, Trillium Mall, Amritsar","Shop No.9, 1st Floor, Wing A, Trillium Mall, C-4, Circular Road, Basant Avenue, Amritsar - 143001",31.646723,74.887032
+3327,"Peter England Peter England Store, Mandir Market, Barnala, Punjab","Sai Creations, Mandir Market, Barnala-148101",30.372807,75.546806
+3333,"Peter England Peter England Store, Batala, Punjab","Opposite Eat well Bakery, SitinDine Building, Samadh Road, Batala - 143505",31.816389,75.206139
+3344,"Peter England Peter England Store, The Mall Road, Bathinda","Shop No. 2090 A, The Mall Road, Bhatinda - 151 001.",30.211000,74.945473
+3345,"Peter England Peter England Store, Mittal City Mall, Bhatinda","Shop # G 10, 11 and 12, Mittal City Mall,Goniana Road, Near Rose Garden, Bhatinda - 151 001",30.230417,74.935585
+3378,"Peter England Peter England Store, Sector 17C, Chandigarh","SCO 74, Sector 17C, Chandigarh - 160 017.",30.739750,76.782692
+3379,"Peter England Peter England Generation, Elante Mall, Chandigarh","No.178-178A, Chandigarh Industrial Area, Business Park, Phase - I, Chandigarh - 160002.",30.705334,76.801613
+3380,"Peter England Peter England Store, Sec 17, Chandigarh","SCO No. 33, Ground Floor, Sector 17-E, Chandigarh - 160017.",30.738333,76.782143
+3381,"Peter England Peter England Store, Kaithal, Chandigarh","Grownd Floor, #90 Pehowa Chowk, Gobind Nagar, Karnal Road, Kaithal 136027",19.301916,72.850250
+3480,"Peter England Peter England Store, Faridkot, Punjab","#7,Near shri Nav Durga Mandir,Opp. Medical Hospital,Faridkot-147001",30.682556,74.750473
+3483,"Peter England Peter England Store, Model Town, Firozpur","No. 28, Model Town, Malwal Road, Ferozpur - 152002",30.944971,74.628059
+3522,"Peter England Peter England Store, Library Road, Gurdaspur","Shop No. 506/16, Library Road, Gurdaspur - 143521",32.033306,75.400002
+3534,"Peter England Peter England Store, Hamirpur, Punjab","New Fashion Point,Gandhi Chowk,Hamirpur-177001",31.689362,76.519638
+3544,"Peter England Peter England Store, Hoshiarpur, Punjab","Karman Enterprises, Beside Nice computers, Mall road, near shimla pahari , Hoshiarpur, Pin code: 146001",31.525749,75.921585
+3587,"Peter England Peter England Store, Kharbanda Shopping Complex, Jalandhar","KHARBANDA SHOPPING COMPLEX, Lajpat Nagar Mkt, Jalandhar-144001",31.287861,75.664803
+3588,"Peter England Peter England Store, Centrum Jyothi Mall, Jalandhar","CENTRUM JYOTI MALL,JYOTI CHOWK,JALANDHAR - 144001",31.325972,75.575386
+3665,"Peter England Peter England Store, West End Mall, Ludhiana","Shop No. LG 12, The West End Mall, Ferozpur Road, Ludhiana No.B-22, Phase 2, Ludhiana - 141010.",30.904388,75.901726
+3686,"Peter England Peter England Store, Moga, Punjab","VINAYAK EXCLUSIVE Partap Road, Moga-142001",30.817472,75.168503
+3687,"Peter England Peter England Store, North Country Mall, Mohali","UGF 32,1st Floor North Country Mall, Mohali Kharar Road, NH21, Mohali - 140307",30.704666,76.718636
+3688,"Peter England Peter England Store, Mohali","In Fashion, SCO 79 Phase 7, Mohali-160055",30.704193,76.726196
+3734,"Peter England Peter England Store, Nangal, Punjab","Cabin No. 13, Main Market, Nangal",31.381111,76.383331
+3741,"Peter England Peter England Store, Nawanshaher","Railway Road, Near Parking, Nawanshaher",31.125999,76.116364
+3759,"Peter England Peter England Store, Tehran Complex, Pathankot","Trehan Complex, Pir Baba Chowk, Dhangu Road,Pathankot-145001",32.270195,75.652222
+3760,"Peter England Peter England Store, Omaxe Mall, Patiala","Ground Floor,Homegaurd Office site,Opp Kali Mata Mandir,Omaxe Mall Road,Patiala -147001",30.337807,76.394501
+3761,"Peter England Peter England Store, Bhupindra road, Patiala","Bhupindra Road, Opp Caf? Coffee Day, Pataiala-147001",30.345528,76.377251
+3265,"Peter England Peter England Store, Saral, Ajmer","Saral, Near patel Stadium, Jaipur Road, Ajmer",26.466778,74.638580
+3266,"Peter England Peter England Store, CityU Square mall, Ajmer","SHOP NO 3, GROUND FLOOR, CITYU SQUARE MALL, NEAR RAJEEV CIRCLE, PANCHSHEEL",26.514750,74.634003
+3274,"Peter England Peter England Store, Alwar, Rajasthan","93-94 Jai Complex Road No.2, Alwar",27.569000,76.608330
+3349,"Peter England Peter England Store, Capital Mall, Bhiwadi","Capital Mall, Bhiwadi",28.201139,76.847832
+3350,"Peter England Peter England Store, City Center Mall, Bhiwani","Shop No. 9a & 8d, City Center Mall,Court Road Near Huda Park,Bhiwani-127021",28.816305,76.141136
+3365,"Peter England Peter England Store, ShahdulGanj , Bikaner","#19, Panchsati Circle, ShahdulGanj , Bikaner",28.010221,73.333359
+3405,"Peter England Peter England Store, Chirawa, Rajasthan","Near SBI bank, Pilani Road, Chirawa",28.243639,75.651726
+3407,"Peter England Peter England Store, Chittoor","Hno: 18-971,Prakasham High Road,ChittoorPh:- 0852-233568",13.217556,79.100830
+3408,"Peter England Peter England Store, Chittorgarh, Rajasthan","16-17, Kailash Nagar, Maharana Pratap Setu Marg Chittorgarh",24.878721,74.622643
+3487,"Peter England Peter England Store, Sector 22, Gandhinagar","699, Main Shopping Center,Opp. Post Office, Sector-22, Gandhinagar",23.196020,72.633324
+3488,"Peter England Peter England Store, Gole Bazaar, Ganganagar","6 Public Park, Gole Bazaar, Ganganagar",29.929693,73.871582
+3489,"Peter England Peter England Store, Ganganagar, Rajasthan","Sukhadia Circle, Goshala Road, Ganganagar",29.903973,73.876419
+3536,"Peter England Peter England Store, Hanumangarh","Rajeev Chowk, Hanupan Garh Jn.",28.631779,77.220886
+3249,"Peter England Peter England Store, Prestige Tower, Jaipur","G3, Prestige Tower, Amrapali Circle, Vaishali Nagar, Jaipur",26.911472,75.745140
+3573,"Peter England Peter England Generation, Tonk Road, Jaipur","No. 4 & 5, Kailash Complex, Tonk Road, Jaipur - 302018.",26.888250,75.803024
+3574,"Peter England Peter England Store, Tonk Road, Jaipur","G-2 Mile Stone, Complex, Gandhi nagar more, Tonk Road, Jaipur",26.887083,75.802940
+3575,"Peter England Peter England Store, Sanganer, Jaipur","Pratap Plaza, Sanganer, Jaipur",26.802305,75.808746
+3576,"Peter England Peter England Store, Malviya Nagar, Jaipur","Gaurav Tower, Malviya Nagar, Jaipur",26.855612,75.806808
+3577,"Peter England Peter England Store, Mansarover, Jaipur","56/6 Rajat Path Madhyam Marg, Mansarover, Jaipur",26.863972,75.758858
+3578,"Peter England Peter England Store, Pink Square Mall, Jaipur","Shop No. 140 Pink Square mall Janta Colony Govind marg, Raja Park Jaipur",26.896917,75.826141
+3579,"Peter England Peter England Store, Vidhyadhar nagar, Jaipur","Central spine, Vidhyadhar nagar ( opposite national handloom), Jaipur",26.961027,75.779419
+3580,"Peter England Peter England Store, Jaipur","DCM Bus Stand, Ajmer Road, Jaipur",26.892721,75.745308
+3581,"Peter England Peter England Store, Triton Mall, Jaipur","G11,TRITON MALL, NEAR JHOTAWARA FLYOVER, JAIPUR",26.941584,75.770554
+3582,"Peter England Peter England Store, MI Road, Jaipur","SHOP NO 125, OPP: TANISHQ, NEAR PANCH BATTI, M.I. ROAD, JAIPUR",26.916279,75.808418
+3583,"Peter England Peter England Store, S.R Tower, Jaipur","Shop no- G1-G2, Ground Floor, S.R. Tower, Near Sanganer Flyover, Pratap Nagar, Tonk Road, Jaipur (Rajasthan)",26.874556,75.790695
+3584,"Peter England Peter England Store, Rajendra Nagar, Jaipur","Plot no 132, Shop no- 5, Rajendra Nagar, Sirsi Road, Jaipur- Rajasthan",26.920471,75.732750
+3585,"Peter England Peter England Store, JTM, Jaipur","GF-06, Jaipur Textile Market(JTM), Near Jagatpura Flyover, Jaipur",26.837557,75.833557
+3601,"Peter England Peter England Store, Shah market, Jhunjhunun","Rameshwaram Complex, Station Road, Shah market, Jhunjhunun-333001",28.243639,75.651726
+3602,"Peter England Peter England Store, Sardarpura Jodhpur","Shop No.1, 7th c Road, Sardarpura, Jodhpur",26.276222,73.009224
+3603,"Peter England Peter England Store, Shastri Nagar, Jodhpur","E4 , opposite manidhari Hospital, Residency Road , Shastri Nagar; Jodhpur",26.274445,73.004364
+3623,"Peter England Peter England Store, Kishangarh, Rajasthan","Opoosite Laxmi Narayan Temple, Near Maya Bazar, HP agency Gali, Kishangarh",31.121529,76.115196
+3641,"Peter England Peter England Store, Gumanpura Road, Kota","Ground & Mezzanine, D-1, New Colony, Vinaykam, Opposite Multipurpose School, Gumanpura, Kota - Gumanpura - 324 007",25.172333,75.852333
+3642,"Peter England Peter England Store, Jhalawar road, Kota","F-7 City mall, A47 IPI Area, Jhalawar road, Kota",25.137417,75.855362
+3643,"Peter England Peter England Store, Kota,",253-B Talwandi Circle Kota,25.147638,75.840637
+4562,Peter England PETER ENGLAND,"Peter EnglandGround & Mezzanine, D-1, New Colony, Vinaykam, Opposite Multipurpose School, Gumanpura, Kota - Gumanpura - 324007",0.000000,0.000000
+3744,"Peter England Peter England Store, Nimbahera","Dawk Bunglow Road Nawab Gunj, Nimbahera-312601",24.627001,74.689529
+3840,"Peter England Peter England Store, Sikar","Opp-Ganpati Tower Bajaj Road, Sikar",26.968721,75.772308
+3877,"Peter England Peter England Store, Celebration Mall, Udaipur","#1-15, First Floor, Celebration Mall, Gaurav Path, Opp.Devendra Dham, Bhuwana, Udaipur - 313 004.",24.614944,73.705109
+3878,"Peter England Peter England Store, Babu Bazaar, Udaipur","185-186 Bapu bazaar, Udaipur",24.584612,73.696251
+3385,"Peter England Peter England Store, Puraisaiwakkam, Chennai","Door No. 216, Shop No.2, North Point Complex, Puruswalkam High Road, Chennai - 600 007",13.091944,80.251114
+3386,"Peter England Peter England Store, Pondy Bazaar, Chennai","Shop no. 78, Sir Theagaraya Road, Pondy Bazaar, Chennai - 600 017.",13.041333,80.234802
+3387,"Peter England Peter England Store, Anna Nagar, Chennai","# C- 48, Second Avenue, Tamilnadu Housing Board, Office Complex, Annanagar, Chennai - 600 040.",13.083028,80.218109
+3388,"Peter England Peter England Store, Thiruvanmiyur, Chennai","No. 7, Thiruvalluvar Salai, Thiruvanmiyur, Chennai - 600 041.",12.987444,80.256775
+3389,"Peter England Peter England Store, Velachery, Chennai","Ground Floor & First Floor, Off Velachery Tharamani Link Road, Velachery, Vijayanagar, Chennai - 600042.",12.976806,80.223167
+3390,"Peter England Peter England Store, Kasturibai Nagar, Chennai","New no. 26/1, Old No. 10, Ground Floor, Kasturibhai Nagar, Adyar, Chennai - 600020.",13.006611,80.249748
+3391,"Peter England Peter England Store, Ampa Mall, Chennai","Shop no. 116 (FF), Ampa Skywalk, Poonamalle High Road, # 1, Nelson Manickam Road, Chennai - 600 029.",13.064833,80.172333
+3392,"Peter England Peter England Store, Perambur, Chennai","138/259, Paper Mills Road, Perambur, Chennai - 600 011.",13.114222,80.234718
+3393,"Peter England Peter England Store, Express Avenue, Chennai","Shop No.S-116, First Floor, Express Avenue, Chennai - 600 014.",13.058500,80.263527
+3395,"Peter England Peter England Store, Phoenix Mall, Chennai","Shop No. G-27, Phoenix Market City, 142, Velachery Main Road, Chennai - 600042.",12.991389,80.216614
+3396,"Peter England Peter England Store, Forum Vijaya Mall, Chennai","Shop no. 123, First Floor, Forum Vijaya Mall, 183, NSK Salai, Vadapalani, Chennai - 600026.",13.050556,80.209724
+3397,"Peter England Peter England Store, Triplicane, Chennai","No. 283, Pycrofts Road, Triplicane, Chennai - 600005.",13.055972,80.278862
+3398,"Peter England Peter England Store, Mogappair, Chennai","Raaj Towers, Plot no. 105 & 106, HIG 1, Nolumbur Scheme, Nolumbur Village, Ambattur Taluk, Thiruvallur - 600095.",13.081111,80.164780
+3399,"Peter England Peter England Store, Tambaram, Chennai","No.12, Abdul Razak Street, Tambaram, Chennai - 600 045.",12.926111,80.115387
+3400,"Peter England Peter England Store, Chrompet","No 305, GST Road, Chromepet, Chennai",12.954056,80.141640
+3401,"Peter England Peter England Store, Thiruvallur","No 169, JN Road, Thiruvallur",12.970250,80.146667
+3402,"Peter England Peter England Store, Kilkattalai, Chennai","#11, Arunachalam Nagar, Keelkattlai, Chennai-600117.",12.959833,80.187141
+3283,"Peter England Peter England Store, Attur","1109/419/1, Salem Cuddalore Main Road, Attur - 636102.",11.599833,78.594360
+436,"Peter England Peter England, Purasaiwalkam","Peter England, No:216, north point complex, Purasaiwalkam high road, Chennai-600007",38.049999,98.120003
+439,"Peter England Peter England, PONDY BAZZAR","Peter England, No.78, Sir Theagaraya Nagar,Pondy Bazaar,T.Nagar,Chennai-600017",13.041000,80.236725
+442,"Peter England Peter England, ANNA NAGAR","Peter England, Peter England,No C 40- 2nd Avenue, TNHB Office complex. Anna nagar chennai 600040",13.146500,80.364723
+507,"Peter England Peter England, Ampa Skywalk, Chennai","Peter England, Shop No:116,Ampa Skywalk,No-1, Nelson Manickam Road,Chennai-600029",13.073694,80.221497
+525,"Peter England Peter England, PERAMBUR, Chennai","Peter England, No.138/259, Paper mills road, Perambur, Chennai-600011",13.198583,80.396194
+616,"Peter England Peter England, TRIPLICANE, CHENNAI","Peter England, 283,Pycrofts road,Triplicane, Chennai-600005",13.099889,80.474609
+657,"Peter England Peter England, Mogappair","Peter England, Raaj owers,105& 106,HIG 1,Nolumbur scheme,Nolumbur village,Ambattur taluk, Tiruvallur-600095",13.081028,80.165001
+665,"Peter England Peter England, Adyar, Chennai","Peter England, Old No 10,New No 26/1,Ground Floor,Kasturibainagar,Adyar,Ch-600020",13.002917,80.255112
+685,"Peter England Peter England, EXPRESS AVENUE, Chennai","Peter England, No:S-116, First Floor, Express Avenue,Chennai:600014",13.058750,80.264305
+686,"Peter England Peter England, Phoenix Mall, Chennai","Peter England, shop No G-27,Phoenix Market city No -142,Valechery Main Road-Chennai 600042",12.991000,101.731667
+687,"Peter England Peter England, FORUM VIJAYA MALL, Chennai","Peter England, Shop No 123 first floor forum vijaya mall ,183 , nsk salai vadapalani chennai-600026",13.050417,80.209419
+3955,"Peter England PETER ENGLAND, Valasaravakkam, Chennai","PETER ENGLAND, No:174/A ,Palaniappa nagar , Arcot road , Valasaravakkam , Chennai - 600087",13.048500,80.177498
+3960,"Peter England PETER ENGLAND, Velachery, Chennai","PETER ENGLAND, NO-1A,Varadarajapuram,Tharamani Link Road,Velachery-600042",12.981100,80.229599
+4261,"Peter England Peter England Store, Vivira Mall, Chennai","G10, Vivira mall, ground floor, old mahabalipuram road, Navallur, chennai - 603103.",13.080000,80.160004
+4450,"Peter England Peter England, Ambattur, Chennai","Peter England, No. 428/B2 MTH Road, Near OT Bustand, Krishnapuram Chennai - 600053",13.120000,80.150002
+4451,"Peter England Peter England, Porur, Chennai","Peter England, Old no 46, Mount poonamalee high Road, Porur, Chennai -600116",13.020000,80.180000
+4452,"Peter England Peter England Store, V R Mall, Chennai","Peter England, No.F43 pillaiyar koil street jawaharlal nehru nagar annanagar chennai - 600040",13.090000,80.199997
+4453,"Peter England Peter England, PMC Mens Obs, Chennai","Peter England, F9/10 1st floor, Phoenix market city mall, No.142, Velachery main road, Chennai - 600042",12.990000,101.730003
+4454,"Peter England Peter England, Marina Mall","Peter England, F005B, Egattur Village, Tirpporur taluk, Marina Mall, OMR Road, Kanchipuram dist, 603103",12.830000,80.220001
+4455,"Peter England Peter England, OMR","Peter England, No.339/2 A. 340/2AA, E block, OMR Road, Rajiv gandhi salai, Okkiyam Thoraipakkam, Chennai - 600097",12.920000,80.230003
+4576,Peter England PETER ENGLAND,"PETER ENGLAND SHOWROOM,# F-43,FIRST FLOOR,PILLAIYAR KOVIL STREET,JAWAHARLAL NEHRU NAGAR,ANNA NAGAR,CHENNAI-600040",13.080500,80.197098
+4659,Peter England PETER ENGLAND,"Shop no. S-116, First Floor,Express Avenue, Chennai-600014",13.061300,80.261101
+4674,Peter England PETER ENGLAND,"138/259, PAPER MILLS ROAD, PERAMBUR, CHENNAI-600011",13.112511,80.237473
+3413,"Peter England Peter England Store, Brookfield Plaza, Coimbatore","F4, First Floor, Brookefields ,67-71 Krishnaswamy Road, Coimbatore - 641 001",11.009556,76.959335
+3414,"Peter England Peter England Store, DB Road, Coimbatore","Peter England, 570-572, Vayaluraan Towers, DB Road, R.S.Puram, Coimbatore - 641 002.",11.010417,76.949890
+4040,"Peter England PETER ENGLAND, Brookefields, Coimbatore","PETER ENGLAND, F4,First Floor, Brookefields,67-71 Krishnaswamy Road, Coimbatore-641001",11.055404,76.994347
+4106,"Peter England PETER ENGLAND, Prozone Mall, Coimbatore","PETER ENGLAND, Prozone Mall, 1st floor @ old Sivananda Mills, Coimbatore - 641035",13.040000,77.669998
+4449,"Peter England Peter England Store, Crosscut, Coimbatore","No.1030, Crosscut Road, Gandhipuram , Coimbatore",11.020000,76.959999
+4687,Peter England Peter England NSR Road,"No,549, velandipalayam post, Building 276A, Vks Complex, NSR Road, Coimbatore - 641025",11.025471,76.936470
+3415,"Peter England Peter England Store, Bharathi Road, Cuddalore","Peter England, No.19, Bharathi Road, Cuddalore - 607001.",11.751111,79.761612
+2810,"Peter England Peter England Store, RKV RD, Erode","# 9, R.K.V.Road, Erode - 638 001",11.352780,77.727272
+3474,"Peter England Peter England Store, RKV RD, Erode","Peter England, # 9, R.K.V.Road, Erode - 638 001",11.342222,77.728279
+3475,"Peter England Peter England Store, Perundurai Road, Erode","# 23, Pannai Nagar, Veerapampalayam Pirivu, Perundurai Road, Erode - 638012.",11.328611,77.694221
+4447,"Peter England Peter England Store, Perundurai","Peter England, No.131, Next to kumalan Kuttai bsu stop, perundurai Road, Erode, 638011",11.195810,77.421219
+3546,"Peter England Peter England Store, Bangalore Road, Hosur","V S Reddy Complex, Old Bangalore Road, Opposite Anna Statue, Hosur - 635 109.",12.735556,77.826164
+3607,"Peter England Peter England Store, Kanchipuram","Peter England, 63B, Kamarajar Street, Kanchipuram - 631501.",38.630001,90.190002
+3613,"Peter England Peter England Store, Karaikudi","347, SEKKALAI ROAD,KARAIKUDI- 630 001",10.073083,78.772667
+3648,"Peter England Peter England Store, Krishnagiri","Peter England , # 217, Bangalore Road, Opp Taluk Office, Krishnagiri - 635001.",12.524389,78.216110
+3650,"Peter England Peter England Store, Sanathi Street, Kumbakonam","Peter England, New no 9A,Old no 11,Someshwarar Sanathi Street,Kumbakonam-612001",10.958750,79.385971
+3668,"Peter England Peter England Store, West Masi, Madurai","Peter England, No. 135, West Masi Street, Madurai - 625 001",9.917861,78.115417
+3669,"Peter England Peter England Store, Madurai","73, TOWN HALL ROAD, OPP. COLLEGE HOUSE, MADURAI- 625001",9.918222,78.112556
+3670,"Peter England Peter England Store, Bye pass road, Madurai","226/1, Byepass Road (Opp Aparna Towers), Madurai: 625010",9.919472,78.093445
+3680,"Peter England Peter England Store, Mayiladuthurai","No.175, Gandhiji Road, Mayiladuthurai - 609001",11.085417,79.661446
+3684,"Peter England Peter England Store, Mettupalayam","#140,Saran Vishnu Plaza, Karamadai Road, Mettupalayam - 641 301.",11.289111,76.940918
+3721,"Peter England Peter England Store, K P Road, Nagercoil","No-669, K.P. Road,Nagercoil -629001.",8.472040,76.978989
+3722,"Peter England Peter England Store, Nagercoil","ALEXANDRA PRESS ROAD, NAGERCOIL-629 001",8.182833,77.431694
+3730,"Peter England Peter England Store, Namakkal","Kumar Illam, No. 26, Paramathi Road, Namakkal - 637 001.",11.218333,78.163719
+3751,"Peter England Peter England Store, Commercial Road, Ooty","Peter England, D.No.71,Commercial Road, Opp BIG SHOP, Ooty - 643001",11.409750,76.705444
+3771,"Peter England Peter England Store, Pattukottai","New VNS Complex, Shop NO.1 & 2, Sri Palaniyappan Street, Thanjavur Dist - 614602, Pattukottai",10.776917,79.141861
+3773,"Peter England Peter England Store, Thangam, Pollachi","GF No. 146, New Scheme Road, Pollachi - 642 001.",10.662333,77.009171
+482,Peter England PE Mainline MISSION STREET,"NO-199 , MISSION ST , PONDICHERRY - 605 001 .",11.935100,79.831100
+2348,"Peter England PEM-Korum Mall, Thane","F-18,Korum Mall, Mangal Pandey Road, Samata Nagar,Thane West, Thane 400601",19.203005,72.965157
+3709,"Peter England Peter England Store, Korum Mall, Thane","F-18,Korum Mall, Mangal Pandey Road, Samata Nagar,Thane West, Thane 400 602",19.203138,72.965332
+3775,"Peter England Peter England Store, Annasalai, Pondicherry","No. 62, Annasalai, Pondicherry - 605001.",11.933750,79.824471
+3774,"Peter England Peter England Store, Mission Street, Pondicherry","Peter England, No-199, Ground Floor, Mission St, Pondicherry- 605001",11.940389,79.833359
+4444,"Peter England Peter England Store, Anna Salai","Peter England, No:62 Anna Salai,Pondicherry-605001",11.940000,79.830002
+3827,"Peter England Peter England Store, Swarnapuri, Salem","Peter England, # 43, 43(A), Omalu Main Road, Swarnapuri, Salem - 636 004.",11.671639,78.138000
+4688,Peter England Peter England Alagapuram,"survey No:sf.74/4,382,Saradha college Road, Alagapuram, Salem-636016",11.676220,78.156738
+3846,"Peter England Peter England Store, Rajarathinam Street, Sivakasi","# 171, Rajarathinam Street, Sivakasi - 626 123.",9.458556,77.796692
+3862,"Peter England Peter England Store, Thanjavur","No,2885,Srinivasa Pillai Road, Thanjavur-613001",10.777667,79.141472
+4446,"Peter England Peter England Store, Thanjavour","Peter England, NO. 2885 SRINIVASAPILLAI ROAD THANJAVUR - 613001",10.780000,79.160004
+3872,"Peter England Peter England Store, Thillai Nagar,Trichy","B-34, Colony Main Road, Thilainagar, Trichurapalli - 620 001",10.798722,78.743416
+3868,"Peter England Peter England Store, Palayankottai, Tirunelveli","Peter England, Ground Floor, Mani Complex, No. 122/A2, Trivandrum Road, Palayamkottai, Tirunelveli - 627 001.",8.721222,77.732002
+3870,"Peter England Peter England Store, P N Road, Tirupur","Peter England Showroom, No - 460, SRS Arcade, P.N.Road, Tirupur - 641602",11.105278,77.352554
+4445,"Peter England Peter England Store, Trichy","Peter England, B-34,Colony Main Road,Thillai Nagar,TRICHY-620018",10.820000,78.660004
+3876,"Peter England Peter England Store, Tuticorin","Peter England, #19,West Great Cotton Road,Tuticorin - 628001",8.804611,78.149582
+3892,"Peter England Peter England Generation - Officers Line Road, Vellore-GEN","Peter England, Municipal Door No. 24, New no. 6, 6/1, Next to Bata Showroom, Officers Line Road, Vellore - 632 001",12.912278,79.132057
+3893,"Peter England Peter England Store, Katpadi, Thirunagar, Vellore","Peter England, Plot No. 314/3, Katpadi Road, Thirunagar, Vellore - 632006.",12.964028,79.137665
+3896,"Peter England Peter England Store, Viluppuram","716, 1st Floor, PJN Road, Maghalakshmi Plaaza,Villupuram :605602",11.941194,79.494080
+4250,Peter England Peter england,"Peter england Shop No.L3-03, 2nd Floor,Hyderabad NEXT / L&T Mall,Punjagutta, Hyderabad-500082",17.421240,78.454987
+3549,"Peter England Peter England Store, Citi Center Mall, Hyderabad","Shop No. G-14, City Centre Mall, Road No. 1 & 10, Banjara Hill, Hyderabad - 500 034.",17.407249,78.443306
+3550,"Peter England Peter England Store, A.S.Rao Nagar, Hyderabad","Mahesh Nagar, Dr. A.S.Rao Nagar, Hyderabad - 500 062.",17.476528,78.566940
+3551,"Peter England Peter England Store, Ameerpet, Hyderabad","Ground Floor, 6-3-788/32, Vamsi Estate, Ameerpet, Hyderabad - 500 016.",17.431389,78.448555
+3552,"Peter England Peter England Store, Himayat Nagar, Hyderabad","# G-4, Swetha Apartments, M C H No. 3-6-523, Himayathnagar, Hyderabad - 500 001.",17.401751,78.484886
+3553,"Peter England Peter England Store, Kukatpally, Hyderabad","KMEG 5, Road No.1, KPHB Colony, Kukatpally, Hyderabad - 500 072",17.492695,78.402336
+3554,"Peter England Peter England Store, Habsiguda, Hyderabad","Krishna's Trendset,Peter England Showroom,Premises No 4-7-152/1,Habdiguda,Nacharam Vilage,Uppal Mandal, Hyderabad - 500 076.",17.328472,78.577446
+3555,"Peter England Peter England Store, Madinaguda, Hyderabad","No G7 & 8 , Krishna Residency, Madinaguda,Hyderabad-500050.",17.495472,78.344780
+3556,"Peter England Peter England Store, Attapur Road, Hyderabad","Ground & First Floor, Shop No. 3-4-174/3/1, Attapur Main Road, Hyderabad - 500038.",17.382694,78.432083
+3557,"Peter England Peter England Store, Forum Mall, Hyderabad","# 125, First Floor, Forum Sujana Mall, Kukatpally, Hyderabad - 500072.",17.484417,78.388779
+3558,"Peter England Peter England Store, A.S.Rao Nagar, Hyderabad","G8,Vertex Pearl complex,Opp Radhika Theatre, Srinivas Nagar colony,AS Rao Nagar main Road Kapra PIN:500062",17.476528,78.566917
+3559,"Peter England Peter England Store, Chandanagar, Hyderabad","Lubna Enterprises, Gangaram Chandanagar, 2- 105/1/F Near RS Brothers, Hyderabad",17.495861,78.333054
+3729,"Peter England Peter England Store, Nalgonda","# 6-1-670, Near Town Hall, Clock Tower to Bus Stand Road, Nalgonda",17.054501,79.268166
+3252,"Peter England Peter England Store, Agartala","1, Mantri Bari Road, Agartala-799001",23.831028,91.278557
+3253,"Peter England Peter England Store, Church road, Agra","Shop no. 2 & 3, Shanti Mall, Church Road, Ram Nagar Colony, Agra - 282 002.",27.205000,77.998863
+3254,"Peter England Peter England Store, Raja Mandi, Agra","Labh Chand mkt, Raja mandi, MG Road crossing, Agra - 282002",27.189306,78.000969
+3255,"Peter England Peter England Store, Kamala Nagar, Agra","Dharmalok Collections, D-518, Kamlanagar, Agra, PIN-282004",27.203278,77.952110
+3256,"Peter England Peter England Store, Awadhpuri, Agra","Peter England Store, Dharamlok Collection (Awadhpuri) , 42 Awadhpuri Kargil Petrol Pump to Shastripuram Road, Agra (U.P.)",27.203278,77.952110
+4561,Peter England PETER ENGLAND,"Aditya Birla Fashion and Retail Limited, Ground & First floor, Shop No.4,2/208, MG Road, Agra, Uttar Pradesh-282001",0.000000,0.000000
+3269,"Peter England Peter England Store, Centre Point, Aligarh","3/311, Centre Point, Aligarh - 202 002.",27.891556,78.078751
+3270,"Peter England Peter England Store, VCC Mall, Allahabad","Shop No. 14 and 15, First Floor, VCC Mall, Allahabad - 211 001",25.454861,81.834694
+3271,"Peter England Peter England Store, Atlantis Mall, Allhabad","No.1, Atlantis Mall, Civil Lines, Allahabad - 211001.",25.451029,81.836388
+3272,"Peter England Peter England Store, Civil Lines, Allahabad","Plot No. 29, Civil Station, Mahatma Gandhi Marg, Civil Lines, Allahabad - 211001.",25.450890,81.831032
+3291,"Peter England Peter England Store, Balia, UP","Near Dhoomra Baba mandir,Middhi, Balia - 277001",25.757278,84.147446
+3323,"Peter England Peter England Store, Barabanki, UP","PE Exclusive Showroom, 119,Begumganj,Niblet crossing,Barabanki-225001",26.929028,81.193611
+3325,"Peter England Peter England Store, Phoenix Mall, Bareilly","Unit No F-38, Mahanagar Colony, Pilibhit bypass road, Bareilly - 243002 Tel : 0581-2583363",28.394361,79.457031
+3326,"Peter England Peter England Store, Civil Lines, Bareily","Shop no. B-7, Mission School Colony, Civil Lines, Bareilly - 243001 Tel : 0581 2570070",28.347528,79.420502
+4598,Peter England PETER ENGLAND,"Shop no.54, Civil Lines, Brand Square, Ayub Khan Chauraha, Bareilly, UP 243001",0.000000,0.000000
+3342,"Peter England Peter England Store, Bharuch, Gujarat","G-2,Bombay Shopping Center , Station Road, Bharuch - 392001. Gujarat",21.699005,72.983994
+3343,"Peter England Peter England Store, Shethana Plaza, Baruch","A-6, Shethana Plaza, Station Road, Bharuch - 392001",21.701981,72.991982
+3476,"Peter England Peter England Store, Faizabad","159, Rekabganj, Faizabad - 224001",26.853695,80.948441
+3477,"Peter England Peter England Store, Rekabganj, Faizabad","PETER ENGLAND SHOWROOM, 3/3/52, SARAL COMPLEX, REKABGANJ, FAIZABAD",26.778889,82.139053
+3364,"Peter England Peter England Store, Civil Lines, Bijnor","Ground Floor.Opp Khanna Petrol Pump, Nageeni Road,Civil Lines ,Bijnor - UP -246701",29.378195,78.138107
+3370,"Peter England Peter England Store, Budaun","KOTWALI ROAD, GHANTAGHAR, BUDAUN",28.036167,79.126945
+3481,"Peter England Peter England Store, Nehru Road, Farrukkhabad","Genx Creations, Nehru Road, Farrukkhabad, PIN-209625",27.189306,78.000969
+3482,"Peter England Peter England Store, Fathehabad","# 4, Marla Colony, Adjoining Duke Showroom, Mall Road, Fatehabad - 125050.",29.661943,75.454330
+3484,"Peter England Peter England Store, Gandhi Chowk, Firozbad","PE Exclusive Showroom, Gandhi Chowk, Opp. Gaushala,Firozabad PIN 283203",27.154612,78.391861
+4371,Peter England Peter England,G-15B'East Delhi Mall' Plot No. 1'Kaushambhi Ghaziabad-201010,0.000000,0.000000
+3491,"Peter England Peter England Store, East Delhi Mall, Ghaziabad","G-15B, East Delhi Mall, Plot No. 1, Kaushambhi, Ghaziabad - 201 010",28.646667,77.319443
+3492,"Peter England Peter England Store, Shipra Mall, Ghaziabad","Shipra Mall, Shop No. 20/21, Plot No.9, Vaibhavichand, Indirapuram, Ghaziabad - 201 010.",28.633333,77.376389
+3493,"Peter England Peter England Store, Ambedkar Road, Ghaziabad","No.1, Ambedkar Road, Model Town East, Ghaziabad - 201 001.",28.666668,77.433167
+3494,"Peter England Peter England Store, Mahagun Metro Mall, Ghaziabad","Shop no. 38A, Mahagun Metro Mall, Link Road, NH 58 & NH 24, Vaishali, Ghaziabad - 201 010.",28.644833,77.335609
+3495,"Peter England Peter England Store, World Square Mall, Ghaziabad","# 14, GF, World Square Mall, Mohan Nagar, Ghaziabad - 201004.",28.679693,77.381973
+3500,"Peter England Peter England Store, City Centre Mall, Gorakhpur","City Mall, 6 Civil Lines Park Road, Gorakhpur - 273 001",26.753834,83.375275
+3501,"Peter England Peter England Store, Gol Ghar, Gorakhpur","# 21 E, Civil Lines, Gol Ghar, Gorakhpur - 273001.",26.753279,83.375114
+3537,"Peter England Peter England Store, Hapur, UP",GOLE MARKET HAPUR,28.727249,77.779999
+3598,"Peter England Peter England Store, Jaunpur, UP","OPPOSITE SUNDAR GURUDWARA,OLANDGANJ, JAUNPUR",25.745583,82.684082
+3599,"Peter England Peter England Store, Sadar Bazaar, Jhansi","# 419/1, Bela Road Sadar Bazar, Ground & First Floor, Jhansi - 284 001",25.440611,78.585640
+3611,"Peter England Peter England Store, Gumti, Kanpur","119/1083B, Darshapurna, Gumti No. 5, Kanpur - 208 001.",26.487057,80.349167
+3656,"Peter England Peter England Store, Sahara Ganj Mall, Lucknow","Shop No.108, Sahara Ganj Mall, Lucknow - 226 001.",26.852028,80.944275
+3657,"Peter England Peter England Store, Pheonix Mall, Lucknow","Shop no. 05, First Floor, Phoenix Mall, Lucknow - 226 012.",26.799194,80.896919
+3658,"Peter England Peter England Store, West End, Lucknow","Shop No.1,2 &3, Gr Floor, West End Mall, 54, Vibhuti Khand, Gomti Nagar, Lucknow - 226 010.",26.848778,80.987473
+3659,"Peter England Peter England Store, Aliganj, Lucknow","Shop No.2, HIG 64, Sec E, Aliganj, High Street, Lucknow - 226024",26.886139,80.941833
+3660,"Peter England Peter England Store, One Awadh Center Mall, Lucknow","Shop No.3, 1st Floor One Awadh Center Mall, #384 Vibuthi khand, Opp. Kishan Bazaar, Lucknow 226010",26.870001,80.997475
+3661,"Peter England Peter England Store, Fun Republic, Lucknow","Fun Republic Mall, Gomati Nagar, Lucknow - 226010",26.862362,81.019943
+3662,"Peter England Peter England Store, Aminabad, Lucknow","32,Aminabad,Opp Shankarji Mandir, Lucknow - 226018",26.846722,80.928474
+3663,"Peter England Peter England Store, Indira Nagar, Lucknow","Shop no. 77, Shalimar Eldee Plaza, Bhootnath Market, Indiranagar, Lucknow-226016",26.874916,80.981857
+3664,"Peter England Peter England Store, Gomti Nagar, Lucknow","Shop No.-107, City Mall,? Vipul Khand-4, Gomti Nagar,Lucknow",26.870167,80.997307
+3679,"Peter England Peter England Store, Mathura","PE Exclusive Showroom, 1388, Krishna Nagar, Goverdhan Road, Mathura.PIN 281001",27.500999,77.656555
+3682,"Peter England Peter England Store, Pinnacle Towers, Garh Road, Meerut","No.3, Ground Floor, Pinnacle Towers, Garh Road, Meerut - 250 002.",28.972250,77.716331
+3683,"Peter England Peter England Store, Abu Lane, Meerut","Shop No. 171-B to 171-E, Ground Floor, Santosh Plaza, Abu Lane, Meerut - 250001",28.982332,77.699608
+3685,"Peter England Peter England Store, Lalganj Bazar , Mirzapur","Lalganj Bazar , Mirzapur",25.133694,82.563667
+3690,"Peter England Peter England Store, Kothi, Moradabad","No.20, Civil Lines, Kanth Road, Near Pili, Kothi, Moradabad - 244001",28.846361,78.763779
+3712,"Peter England CPeter England Store, Chauri Gali, Muzzafarnagar","97B,Chauri Gali,New Mandi, Muzzafarnagar-251001",29.467667,77.711250
+3713,"Peter England Peter England Store, Grand Mall, MUZAFARNAGAR","GF, 31, 32, 33, Grand Mall, Bhopa Road, Muzafarnagar - 135003, Uttar Pradesh",29.473557,77.715614
+2028,Peter England Peter England Garden Galleria Mall,"Peter England Show Room, Shop No. 207/208, 1st Floor, garden Galleria Mall, Plot No A-2, Sector-38 A, Noida-201301",28.564632,77.322693
+3518,"Peter England Peter England Store, Amrit puram, Greater Noida",AMIRIT PLAZA SHOP NO.116/117 AMRIT PURAM GREATER NOIDA G. B NAGAR. UP,28.480000,77.500610
+3746,"Peter England Peter England Store, Unitech Mall, Noida","Shop No. 114, First Floor, Unitech Mall, Great India Place, Noida, UP - 201 301",28.567833,77.325806
+3747,"Peter England Peter England Store, Sector 18, Noida","shop G-53, Sector -18 ,Noida 201301",28.570333,77.321831
+3748,"Peter England Peter England Store, Ansal Plaza Pari Chowk, Noida","Shop No. AG-54, Ansal Plaza Pari Chowk, Greater Noida, Noida - 201 306.",28.458059,77.502380
+3749,"Peter England Peter England Store, Mall of India, Noida","D 12C, Mall of India, Plot no. M03, Sector 18, Noida",28.567362,77.321304
+3750,"Peter England Peter England Store, Garderns Galleria Mall, Noida","UNIT NO. SH.208, 1ST FLOOR, GARDENS GALLERIA MALL, PLOT NO A-2, SECTOR-38 A, NOIDA 201301",28.572416,77.320168
+3800,"Peter England Peter England Store, RaeBareli","KACHEHARI ROAD, RAE BARELI - 229001",26.224890,81.240196
+3825,"Peter England Peter England Store, Court Road, Saharanpur","1,2,5 & 6, Mahaveer Complex, Haati Gate, Court Road, Saharanpur - 247 001.",29.964277,77.545975
+3826,"Peter England Peter England Store, Bhan Complex, Saharanpur","Shop No.2, Bhan Complex, Opposite Hathi Gate, Court Road, Saharanpur - 247001.",29.964027,77.545998
+3837,"Peter England Peter England Store, Govind Ganj, Shahjahanpur","Shop no. 76, 77 & 78,Ground & first Floor, Govind Ganj, Shahjahanpur - 242 001.",27.879999,79.910027
+3845,"Peter England Peter England Store, Sitapur","Transport Chauraha station Road, Sitapur, - 261001",27.584167,80.666389
+3855,"Peter England Peter England Store, Sultanpur","Near Bus Stations ,opp. Seth Petrol Pump, Sultanpur - 228001",26.851973,80.944275
+3888,"Peter England Peter England Store, Sigra, Varanasi","No.C-21/89, G-1, Mahamandal Nagar, Lahurabir, Varanasi - 221010",25.311111,82.986443
+3889,"Peter England Peter England Store, JHV Mall, Varanasi","UG-08, JHV Mall, Contonment Road, Varanasi - 221002,",25.335722,82.977417
+3890,"Peter England Peter England Store, Durgakund, Varanasi","Kashi Arcade, Plot No. B27/67A, Durgakund, Varanasi - 221005.",25.290693,82.999336
+3422,"Peter England Peter England Store, Rajpur Rd, Dehradun","# 56, Rajpur Road, Opposite Hotel Madhuban, Dehradun - 248 001.",30.338556,78.058556
+3423,"Peter England Peter England Store, Rajpur Road, Dehradun","No.25-C, Rajpur Road, Dehradun - 248 001.",30.336279,78.055305
+3424,"Peter England Peter England Store, Pacific Mall,Dehradun","Shop No. UGF - 21, Pacific Mall, Rajpur Road, Jakhan, Dehradun - 248001.",30.366556,78.070473
+3425,"Peter England Peter England Store, Platan Bazar, Dehradun","10, Platan Bazar, Dehradun - 248001",30.322639,30.322639
+3426,"Peter England Peter England Store, Dehradun","55/40, Paltan Bazar, Dehradun-248001",30.322639,78.040108
+4602,Peter England PETER ENGLAND,"Peter England, Shop No.6, Ground & First florr, Plot no.55, MJ Tower, Rajpur Road, Dehradun-248001",0.000000,0.000000
+3532,"Peter England Peter England Store, Nanital Road, Haldwani","C/O U & 1A Garment Store,Ganga Singh negi Market, Tikonia, Nanital Road, Haldwani,Uttarakhand - 263 139.",29.218279,79.512970
+3533,"Peter England Peter England Store, Naya bazaar, Haldwani","Peter England Exclusive Showroom, Naya Bazaar, Near Bata Showroom, Haldwani - 263139",29.218279,79.513031
+4560,Peter England PETER ENGLAND,"The ICON, Brij Vihar,Opp-sexxion Court, Nainital Road, Nainital, Haldwani 263139",0.000000,0.000000
+3538,"Peter England Peter England Store, Hardwar","Super Complex, Near Prem Nagar Asram, Haridwar - 249403",29.976778,78.122223
+3539,"Peter England Peter England Store, Shivpuri Yojna, Hardwar","Plot no. 3, Shivpuri Yojna, Opp.Prem Nagar Ashram Delhi Road, Haridwar, Uttrakhand - 249 401.",29.976807,78.122223
+3819,"Peter England Peter England Store, Rishikesh","71, MEKHERJEE ROAD, RISHIKESH - 249201",30.105833,78.299278
+3822,"Peter England Peter England Store, Civil Lines, Roorkee","1022, (1-5), 18 Civil Lines, Haridwar, Roorkee - 247667.",29.869888,77.890305
+3906,"Peter England Peter England Store, Roorkee","M/S Luxmi Fashions, 12 Civil Lines, Opposite Kotwali, Roorkee- 247667",29.869888,77.890305
+3823,"Peter England Peter England Store, Rudrapur, Uttaranchal","A64, Matkewali Gali, Rudrapur - 263 153.(Uttarakhand)",28.994556,79.387611
+3322,"Peter England Peter England Store, Bangaon, WB","NEAR BATA MORE , BANGAON ( NORTH 24 PARGANAS ) - 743235",23.041971,88.830254
+3324,"Peter England Peter England Store, Barasat",Peter England Showroom 95/44B K.N.C. ROAD HARITALA MORE BARASAT 700124,22.719807,88.481247
+3496,"Peter England Peter England Store, Giridih","R.S. Complax, shiv Mohalla, Giridh 815301",24.182083,86.286781
+3288,"Peter England Peter England Store, Baharampur","134,B.B.SEN ROAD,OPP. CENTRAL CO-OPERATIVE BANK-742101",24.106806,88.250191
+3339,"Peter England Peter England Store, Berhampur","City Mall,Opp: telephone Bhawan,Berhampur,pin : 751007",19.310612,84.791557
+3371,"Peter England Peter England Store, Burdwan","104, G.T.ROAD, OPP. DHAL DIGHI PETROL PUMP. BURDWAN,713101,",23.236279,87.866447
+3530,"Peter England Peter England Store, Habra, West Bengal","NAGAR UKHRA MORE, JASORE ROAD HABRA, NORTH 24 PGS, HABRA, West Bengal",23.046167,88.828415
+3543,"Peter England Peter England Store, G.T. Road, Hooghly","H H FAB, Peter England Showroom, 310,G T ROAD (EAST),COURT MORE CHANDANNAGAR,HOOGHLY-712136",22.861139,88.367111
+3622,"Peter England Peter England Store, Kharagpur, West Bengal","PE Showroom,Ground Floor, Next to Kalazone sarees, Kharida Main Road, Kharagpur - 721301",22.344610,87.297943
+3628,"Peter England Peter England Store, Lindsay Street, Kolkata","No.28, Lindsay Street, Kolkata - 700 087.",22.559555,88.350914
+3629,"Peter England Peter England Store, Gariahat, Kolkata","# 48, Gariahat Road, Kolkata - 700 019.",22.518360,88.365860
+3630,"Peter England Peter England Store, Avani Riverside Mall, Kolkata","Shop no 8,Avani Riverside Mall, First Floor,Jagat Bannerjee Ghat Rd,Howrah,Kolkata-711102",22.563307,88.323418
+3631,"Peter England Peter England Store, Gorabazar, Kolkata","39B,POST OFFICE ROAD,DUMDUM,GORABAZAR, KOL.700028",22.636972,88.413223
+3632,"Peter England Peter England Store, The Metropolis Mall, Kolkata","THE METROPOLIS MALL,1925 CHAKGARIA,2ND FLOOR,SHOP NO-221A,KOL-700094",22.483473,88.390526
+3633,"Peter England Peter England Store, Diamond Harbour road, Kolkata","437,Diamond Harbour Rd. ,Behala,near tram depo, kolkata - 700034",22.500860,88.318138
+3634,"Peter England Peter England Store, Kolkata","111/3, RAJA S C MALLICK ROAD, GARIA, KOLKATA-700084",18.628389,73.803024
+3635,"Peter England Peter England Store, Bapuji Nagar, Kolkata","B/37 A , BAPUJI NAGAR , RAJA S C MULLICK ROAD , JADVAPUR , KOLKATA - 92 (WEST BENGAL)",22.487000,88.374420
+3636,"Peter England Peter England Store, Rajarhat, Kolkata","SHOP NO. C0112,1ST FLOOR,CITY CENTRE, NEW TOWN,RAJARHAT,KOLKATA.",22.622972,88.450249
+4592,Peter England PETER ENGLAND,"Peter England Showroom, New Ghoshpara main road,Beside Reliance Trends, Barrackpore,Kolkata, West Bengal-700120",22.761990,88.370163
+4606,Peter England Peter England,"Peter England Showroom, Situated at 227,Netaji Subhash Chandra Bose Road,Bansdroni, Kolkata - 700047",22.472094,88.366661
+3649,"Peter England Peter England Store, Krishna Nagar, WB","Peter England Store, R.N.TAGORE ROAD,HIGH STREET, KRISHNANAGAR,NADIA-741101",23.389668,88.518387
+3667,"Peter England Peter England Store, Madhyamgram, WB","Roshni Enterprise,CTC Bus stand, Basunagar,Madhyamgram,Sodepur Road, Kolkatta, West Bengal",22.693111,88.463470
+3672,"Peter England Peter England Store, Malda, West Bengal","K.J.SANYAL ROAD,OPP:-ENGLISH BAZER POLICE STATION,MALDA-732101",24.996584,88.142113
+3681,"Peter England Peter England Store, Medinapur","Keranitala,Collectorate Rd. Midnapur,Pin-721101",22.422640,87.316864
+3851,"Peter England Peter England Store, Sonarpur","275,SAHEB PARA,SONAR PUR, BESIDE S.B.I. BANK, KOLKATA-700150",22.442917,88.427666
