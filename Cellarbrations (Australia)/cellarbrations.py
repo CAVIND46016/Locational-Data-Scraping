@@ -14,16 +14,18 @@ import pandas as pd
 
 web_url = "https://www.cellarbrations.com.au"
 
-request_header = {'User-Agent': "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 \
-                  (KHTML, like Gecko) Chrome/64.0.3282.186 Safari/537.36"}
+request_header = {
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 \
+                  (KHTML, like Gecko) Chrome/64.0.3282.186 Safari/537.36"
+}
 
-with open('cellarbrations_locs.json', 'r') as f:
+with open("cellarbrations_locs.json", "r") as f:
     locs = json.load(f)
 
-relevant_locs = {k: v for k, v in locs.items() if 'Cellarbrations' in k}
+relevant_locs = {k: v for k, v in locs.items() if "Cellarbrations" in k}
 
 lat_long_switch = 0
-key = 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx'
+key = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
 
 g = g3(api_key=key)
 
@@ -53,10 +55,15 @@ for key, val in relevant_locs.items():
     store_name.append(s_name)
 
     addr_tag = div_class.find("div", attrs={"property": "schema:servicePostalAddress"})
-    addr = addr_tag.find("div", attrs={"class": "street-block"}).text.strip() + " " + \
-           addr_tag.find("span", attrs={"class": "locality"}).text.strip() + \
-           " " + addr_tag.find("span", attrs={"class": "state"}).text.strip() + \
-           " " + addr_tag.find("span", attrs={"class": "postal-code"}).text.strip()
+    addr = (
+        addr_tag.find("div", attrs={"class": "street-block"}).text.strip()
+        + " "
+        + addr_tag.find("span", attrs={"class": "locality"}).text.strip()
+        + " "
+        + addr_tag.find("span", attrs={"class": "state"}).text.strip()
+        + " "
+        + addr_tag.find("span", attrs={"class": "postal-code"}).text.strip()
+    )
     address.append(addr)
 
     if lat_long_switch:
@@ -76,11 +83,15 @@ for key, val in relevant_locs.items():
     cnt += 1
     time.sleep(1)
 
-df = pd.DataFrame({"store_num": store_num,
-                   "store_name": store_name,
-                   "address": address,
-                   "latitude": lat,
-                   "longitude": long})
+df = pd.DataFrame(
+    {
+        "store_num": store_num,
+        "store_name": store_name,
+        "address": address,
+        "latitude": lat,
+        "longitude": long,
+    }
+)
 
 df["country"] = "Australia"
 df["country_code"] = "AU"
