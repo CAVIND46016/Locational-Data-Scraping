@@ -10,9 +10,10 @@ import pandas as pd
 def get_browser():
     chrome_options = Options()
     chrome_options.add_argument("--disable-extensions")
-    chrome_options.add_argument('--disable-notifications')
-    driver = webdriver.Chrome(executable_path='C:\\Aptana Workspace\\chromedriver.exe',
-                              options=chrome_options)
+    chrome_options.add_argument("--disable-notifications")
+    driver = webdriver.Chrome(
+        executable_path="C:\\Aptana Workspace\\chromedriver.exe", options=chrome_options
+    )
     return driver
 
 
@@ -20,12 +21,13 @@ def scrape():
     driver = get_browser()
 
     us_postal_codes_df = pd.read_csv("us_postal_codes.csv")
-    us_postal_codes_df = us_postal_codes_df.loc[~us_postal_codes_df['Zip Code'].isnull()]
+    us_postal_codes_df = us_postal_codes_df.loc[~us_postal_codes_df["Zip Code"].isnull()]
 
-    us_postal_codes_df = us_postal_codes_df.loc[(us_postal_codes_df['State'] == 'Indiana') &
-                                                (us_postal_codes_df['County'] == 'Monroe')]
+    us_postal_codes_df = us_postal_codes_df.loc[
+        (us_postal_codes_df["State"] == "Indiana") & (us_postal_codes_df["County"] == "Monroe")
+    ]
 
-    all_codes = us_postal_codes_df['Zip Code'].unique().tolist()
+    all_codes = us_postal_codes_df["Zip Code"].unique().tolist()
     length_of_all_codes = len(all_codes)
 
     store_urls = {}
@@ -35,7 +37,9 @@ def scrape():
         print(f"Processing {idx+1} of {length_of_all_codes}...\n\tzip_code: {zip_code}")
         page_no = 1
         while True:
-            page_url = f"https://www.kroger.com/stores/search?searchText={zip_code}&selectedPage={page_no}"
+            page_url = (
+                f"https://www.kroger.com/stores/search?searchText={zip_code}&selectedPage={page_no}"
+            )
 
             try:
                 driver.set_page_load_timeout(30)
@@ -67,12 +71,12 @@ def scrape():
 
 
 def main():
-    outfile_name = 'kroger_store_location_urls.json'
+    outfile_name = "kroger_store_location_urls.json"
 
     store_location_urls = scrape()
 
-    print(f"Printing {len(store_location_urls.keys())} key-value pairs to {outfile_name}...")    
-    with open(outfile_name, 'w') as outfile:
+    print(f"Printing {len(store_location_urls.keys())} key-value pairs to {outfile_name}...")
+    with open(outfile_name, "w") as outfile:
         json.dump(store_location_urls, outfile, indent=4)
 
     print("DONE!!!")
