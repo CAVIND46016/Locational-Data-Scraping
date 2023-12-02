@@ -13,9 +13,10 @@ from selenium.common.exceptions import TimeoutException
 def get_browser():
     chrome_options = Options()
     chrome_options.add_argument("--disable-extensions")
-    chrome_options.add_argument('--disable-notifications')
-    driver = webdriver.Chrome(executable_path='C:\\Aptana Workspace\\chromedriver.exe',
-                              options=chrome_options)
+    chrome_options.add_argument("--disable-notifications")
+    driver = webdriver.Chrome(
+        executable_path="C:\\Aptana Workspace\\chromedriver.exe", options=chrome_options
+    )
     return driver
 
 
@@ -32,16 +33,18 @@ def main():
     except RemoteDisconnected:
         raise Exception(f"\tError 404: {page_url} not found.")
 
-    WebDriverWait(driver, timeout=40).until(EC.presence_of_element_located((By.CLASS_NAME, "as_footer")))
+    WebDriverWait(driver, timeout=40).until(
+        EC.presence_of_element_located((By.CLASS_NAME, "as_footer"))
+    )
 
-    state_drop_down_element = driver.find_element_by_id('state')
-    city_drop_down_element = driver.find_element_by_id('city')
+    state_drop_down_element = driver.find_element_by_id("state")
+    city_drop_down_element = driver.find_element_by_id("city")
 
     state_drop_down_element.click()
     soup = BeautifulSoup(driver.page_source, "html.parser")
 
-    state_option_tag = soup.find("select", attrs={"id" :"state"}).find_all("option")
-    all_options = {k['value']:list() for k in state_option_tag if k['value'] != ""}
+    state_option_tag = soup.find("select", attrs={"id": "state"}).find_all("option")
+    all_options = {k["value"]: list() for k in state_option_tag if k["value"] != ""}
 
     state_drop_down = Select(state_drop_down_element)
     for state_option in all_options.keys():
@@ -50,9 +53,9 @@ def main():
         city_drop_down_element.click()
         soup = BeautifulSoup(driver.page_source, "html.parser")
 
-        city_option_tag = soup.find("select", attrs={"id" :"city"}).find_all("option")
+        city_option_tag = soup.find("select", attrs={"id": "city"}).find_all("option")
         for city_option in city_option_tag:
-            tmp = city_option['value']
+            tmp = city_option["value"]
             if tmp != "":
                 all_options[state_option].append(tmp)
 
@@ -60,11 +63,11 @@ def main():
 
     driver.quit()
 
-    with open("allen_solly_drop_down_values.json", 'w') as outfile:
+    with open("allen_solly_drop_down_values.json", "w") as outfile:
         json.dump(all_options, outfile, indent=4)
 
     print("DONE!!!")
-    
+
 
 if __name__ == "__main__":
     main()
