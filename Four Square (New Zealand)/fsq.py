@@ -3,7 +3,6 @@ Four Square
 https://www.foursquare.co.nz/
 """
 
-import urllib.request as urllib2
 from bs4 import BeautifulSoup
 import selenium
 from selenium import webdriver
@@ -15,7 +14,6 @@ from geopy.geocoders import GoogleV3 as g3
 import http
 import time
 import pandas as pd
-import json
 
 web_url = "https://www.foursquare.co.nz/"
 
@@ -28,8 +26,7 @@ except http.client.RemoteDisconnected:
     raise Exception(f"Error 404: {web_url} not found.")
 
 try:
-    WebDriverWait(BROWSER, 10).until(EC.presence_of_element_located\
-                                        ((By.ID, "stores-nav")))
+    WebDriverWait(BROWSER, 10).until(EC.presence_of_element_located((By.ID, "stores-nav")))
 except selenium.common.exceptions.TimeoutException:
     raise Exception(f"Error 404: {web_url} not found.")
 
@@ -43,20 +40,20 @@ for r in clickable_regions:
     time.sleep(1)
     soup = BeautifulSoup(BROWSER.page_source, "html.parser")
     items = soup.find("div", attrs={"id": "storeListing"}).find_all("li")
-     
+
     for item in items:
         a_tag = item.find("a")
         if not a_tag:
             continue
-        region[a_tag.text.strip()] = a_tag['href']
-     
+        region[a_tag.text.strip()] = a_tag["href"]
+
     time.sleep(2)
-    
+
 BROWSER.quit()
 
 
 lat_long_switch = 0
-key = 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx'
+key = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
 
 g = g3(api_key=key)
 
@@ -72,29 +69,29 @@ for _, val in region.items():
     url = f"{web_url}{val}"
     print(url)
     store_num.append(cnt)
-    
+
     s_name = f"Four Square {val.split('=')[1]}"
     store_name.append(s_name)
-    
+
     try:
         BROWSER.set_page_load_timeout(200)
         BROWSER.get(url)
     except http.client.RemoteDisconnected:
         print(f"Error 404: {url} not found.")
         continue
-    
+
     soup = BeautifulSoup(BROWSER.page_source, "html.parser")
     div_id = soup.find("div", attrs={"id": "myLocal"})
     addr = div_id.find("td", class_=None).text.strip()
     address.append(addr)
-    
+
     if lat_long_switch:
         location = g.geocode(addr, timeout=10)
         if not location:
             lat.append(None)
             long.append(None)
             continue
-        
+
         lat.append(location.latitude)
         long.append(location.longitude)
     else:
@@ -106,15 +103,18 @@ for _, val in region.items():
     time.sleep(1)
 
 BROWSER.quit()
-df = pd.DataFrame({"store_num": store_num,
-                   "store_name": store_name,
-                   "address": address,
-                   "latitude": lat,
-                   "longitude": long})
+df = pd.DataFrame(
+    {
+        "store_num": store_num,
+        "store_name": store_name,
+        "address": address,
+        "latitude": lat,
+        "longitude": long,
+    }
+)
 
 df["country"] = "New Zealand"
 df["country_code"] = "NZ"
 
 df.to_csv("four_square_stores.csv", index=False)
 print("done")
-
